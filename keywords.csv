@@ -6,6 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel Witterung',de,Hazard,#ff0000,#ff0200,2,0.4250001499999999
 'Nebel Nebelschlussleuchte',de,Mitigation,#66ff33,#d64118,2,0.42500003
 'Nebel Auffahrunfall',de,Causes,#0099ff,#638ed4,2,0.425
-'Nebel Verkehrsunfall',de,Causes,#0099ff,#638ed4,2,0.425
 'Nebel Sichtweite',de,Hazard,#ff0000,#022f78,1,0.3784179717499999
 'Nebel Tote',de,Impact,#ffcc66,#c4b03b,2,0.36163258325
+'Nebel Verkehrsunfall',de,Causes,#0099ff,#638ed4,1,0.36124999999999996
