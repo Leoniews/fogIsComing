@@ -1,9 +1,10 @@
 ,phrase,label,sentiment,subjectivity,language,count
 "Link
 ","Link
-",MISC,,,de,4
+",MISC,,,de,5
 Frost am Morgen,Frost am Morgen,MISC,,,de,2
 Be…,Be…,MISC,,,de,1
 Gra…,Gra…,MISC,,,de,1
 minus 1 Grad,minus 1 Grad,MISC,,,de,1
+“,“,MISC,,,de,1
 Nebel und Sprühregen,Nebel und Sprühregen,MISC,,,de,1
