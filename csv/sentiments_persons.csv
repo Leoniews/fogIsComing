@@ -1,2 +1,4 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Orkantief Detlef,Orkantief Detlef,PER,0.0,0.0,de,2
+Nebel morgens,Nebel morgens,PER,0.0,1.0,de,1
+Anfänglicher Nebel,Anfänglicher Nebel,PER,0.0,0.0,de,1

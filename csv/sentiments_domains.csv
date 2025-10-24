@@ -1,5 +1,6 @@
 domain,sentiment_mean,sentiment_std,subjectivity_mean,subjectivity_std,counting
-www.stern.de,-0.2609761904761905,0.34670215428642503,0.1,0.1414213562373095,5.0
-www.tagesspiegel.de,0.5,0.0,0.0,0.0,2.0
+www.stern.de,-0.14165343915343914,0.32032427392190066,0.07936507936507936,0.12208041660280256,9.0
+www.tagesspiegel.de,0.4266666666666667,0.1270170592217177,0.0,0.0,3.0
 www.bild.de,0.0,1.0,0.0,1.0,1.0
 www.faz.net,0.0,1.0,0.0,1.0,1.0
+www.zeit.de,0.0,1.0,0.0,1.0,1.0
