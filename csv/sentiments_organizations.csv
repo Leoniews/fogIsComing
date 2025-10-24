@@ -1,7 +1,8 @@
 ,phrase,label,sentiment,subjectivity,language,count
-DWD,DWD,ORG,0.019999999999999997,0.0,de,10
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.037500000000000006,0.0,de,4
+DWD,DWD,ORG,-0.041666666666666664,0.0,de,12
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.09166666666666666,0.0,de,6
 Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,0.7166666666666667,0.0,de,3
+Wetter-Vorhersage,Wetter-Vorhersage,ORG,-0.7,0.0,de,2
 Berlin/Potsdam,Berlin/Potsdam,ORG,1.0,0.0,de,1
 e…,e…,ORG,0.0,0.0,de,1
 Liveticker Hessen & Frankfurt,Liveticker Hessen & Frankfurt,ORG,-1.0,0.0,de,1
@@ -9,8 +10,8 @@ Hessen +++,Hessen +++,ORG,-1.0,0.0,de,1
 Hessen,Hessen,ORG,-1.0,0.0,de,1
 Spurensicherungsmaßnahmen…,Spurensicherungsmaßnahmen…,ORG,0.0,0.0,de,1
 Deutsche …,Deutsche …,ORG,0.7,0.0,de,1
-Wetter-Vorhersage,Wetter-Vorhersage,ORG,-0.7,0.0,de,1
 lhe,lhe,ORG,0.0,0.0,de,1
+Deutsche…,Deutsche…,ORG,0.0,0.0,de,1
 "Link
 ","Link
 ",ORG,0.0,0.0,de,1
