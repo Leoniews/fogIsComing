@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nebel schlechte Sicht',de,Hazard,#ff0000,#ff4d4d,3,0.4265001499999999
 'Nebel Vorhersage',de,Mitigation,#66ff33,#33cc00,3,0.4170191425227272
 'Nebel Schaden',de,Impact,#ffcc66,#ffaa00,2,0.3880252775
 'Nebel Verletzte',de,Impact,#ffcc66,#e69900,1,0.3806171661666667
+'Nebel schlechte Sicht',de,Hazard,#ff0000,#ff4d4d,3,0.3640252774999999
 'Nebel Witterung',de,Hazard,#ff0000,#ffb3b3,2,0.3627502774999999
 'Nebel Tote',de,Impact,#ffcc66,#b37700,2,0.36163258325
 'Nebel Nebelschlussleuchte',de,Mitigation,#66ff33,#269900,2,0.3615500554999999
