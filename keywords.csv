@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel Tote',de,Impact,#ffcc66,#b37700,2,0.36163258325
-'Nebel Schaden',de,Impact,#ffcc66,#ffaa00,1,0.3298216358749999
 'Nebel Verletzte',de,Impact,#ffcc66,#e69900,1,0.3259248312416666
 'Nebel schlechte Sicht',de,Hazard,#ff0000,#ff4d4d,3,0.3109216358749999
 'Nebel Vorhersage',de,Mitigation,#66ff33,#33cc00,2,0.3104307697884598
@@ -9,3 +8,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel Verkehrsunfall',de,Causes,#0099ff,#004d80,1,0.3070624999999999
 'Nebel Auffahrunfall',de,Causes,#0099ff,#006bb3,1,0.3070624999999999
 'Nebel Sichtweite',de,Hazard,#ff0000,#ff8080,1,0.3006249563393749
+'Nebel Schaden',de,Impact,#ffcc66,#ffaa00,1,0.2818485404937499
