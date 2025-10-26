@@ -9,3 +9,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel Sichtweite',de,Hazard,#ff0000,#ff8080,1,0.3006249563393749
 'Nebel Schaden',de,Impact,#ffcc66,#ffaa00,1,0.2818485404937499
 'Nebel Witterung',de,Hazard,#ff0000,#ffb3b3,2,0.2643072974937499
+'Nebel Wetter',de,Hazard,#ee2211,#ff4d4d,3,0.6109216358749999
