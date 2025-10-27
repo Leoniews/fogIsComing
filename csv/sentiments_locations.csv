@@ -1,37 +1,43 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Berlin,Berlin,LOC,0.7357142857142858,0.0,de,7
-Brandenburg,Brandenburg,LOC,0.7357142857142858,0.0,de,7
-Nebel,Nebel,LOC,-0.425,0.0,de,4
-Hessen,Hessen,LOC,-0.35,0.5,de,4
-Bayern,Bayern,LOC,-0.26249999999999996,0.375,de,4
-Offenbach,Offenbach,LOC,0.2333333333333333,0.3333333333333333,de,3
+Berlin,Berlin,LOC,0.3423076923076923,0.0,de,13
+Brandenburg,Brandenburg,LOC,0.3423076923076923,0.0,de,13
+Bayern,Bayern,LOC,-0.3111111111111111,0.2222222222222222,de,9
+Nebel,Nebel,LOC,-0.4428571428571428,0.0,de,7
+Hessen,Hessen,LOC,-0.19999999999999998,0.2857142857142857,de,7
+Offenbach,Offenbach,LOC,0.0,0.16666666666666666,de,6
+Rheinland-Pfalz,Rheinland-Pfalz,LOC,-0.06666666666666665,0.0,de,6
+Saarland,Saarland,LOC,-0.06666666666666665,0.0,de,6
 Deutschland,Deutschland,LOC,0.4666666666666666,0.0,de,3
-Deutschlands,Deutschlands,LOC,0.0,0.0,de,2
-NRW,NRW,LOC,0.0,1.0,de,2
+NRW,NRW,LOC,-0.2333333333333333,0.6666666666666666,de,3
+lrs,lrs,LOC,-0.2333333333333333,0.0,de,3
+Nordrhein-Westfalen,Nordrhein-Westfalen,LOC,-0.4666666666666666,0.0,de,3
+Freistaat,Freistaat,LOC,0.7,0.0,de,2
 Sturmböen,Sturmböen,LOC,0.0,0.0,de,2
+…,…,LOC,0.0,0.0,de,2
+Temperaturen,Temperaturen,LOC,0.0,0.0,de,2
 Feldberg,Feldberg,LOC,0.0,0.0,de,2
+Deutschlands,Deutschlands,LOC,0.0,0.0,de,2
 Rubihorn,Rubihorn,LOC,-0.925,0.0,de,2
-Feldberg w…,Feldberg w…,LOC,0.0,0.0,de,1
-…,…,LOC,0.0,0.0,de,1
-Nordrhein-Westfalen,Nordrhein-Westfalen,LOC,-0.7,0.0,de,1
+Brocken,Brocken,LOC,0.0,0.0,de,1
+Schwarzwald,Schwarzwald,LOC,0.0,0.0,de,1
 Wetter-Vorhersage,Wetter-Vorhersage,LOC,0.7,0.0,de,1
+Feldberg w…,Feldberg w…,LOC,0.0,0.0,de,1
+Alpen,Alpen,LOC,0.0,0.0,de,1
+Felssturz am Rubihorn,Felssturz am Rubihorn,LOC,0.0,0.0,de,1
 k…,k…,LOC,0.0,0.0,de,1
 Bodennähe,Bodennähe,LOC,0.0,0.0,de,1
 lsw,lsw,LOC,0.7,0.0,de,1
 Stuttgart,Stuttgart,LOC,0.7,0.0,de,1
 Britischen Inseln,Britischen Inseln,LOC,0.7,0.0,de,1
-Alpen,Alpen,LOC,0.0,0.0,de,1
+Harz,Harz,LOC,0.0,0.0,de,1
+Nordseeinseln,Nordseeinseln,LOC,0.0,0.0,de,1
 Hanauer Tafel,Hanauer Tafel,LOC,0.0,0.0,de,1
 Frankfurt,Frankfurt,LOC,-1.0,0.0,de,1
 A3,A3,LOC,-1.0,0.0,de,1
-Felssturz am Rubihorn,Felssturz am Rubihorn,LOC,0.0,0.0,de,1
+Lkw-Brand,Lkw-Brand,LOC,-1.0,0.0,de,1
 Groß-Umstadt,Groß-Umstadt,LOC,-1.0,0.0,de,1
 Südhessen,Südhessen,LOC,-1.0,0.0,de,1
 Bundesstraße 45,Bundesstraße 45,LOC,-1.0,0.0,de,1
-Holzhandel,Holzhandel,LOC,-1.0,0.0,de,1
-Schwarzwald,Schwarzwald,LOC,0.0,0.0,de,1
-Brocken,Brocken,LOC,0.0,0.0,de,1
 Landes,Landes,LOC,0.0,0.0,de,1
-Nordseeinseln,Nordseeinseln,LOC,0.0,0.0,de,1
-Harz,Harz,LOC,0.0,0.0,de,1
-Lkw-Brand,Lkw-Brand,LOC,-1.0,0.0,de,1
+Sprühregen,Sprühregen,LOC,-0.7,0.0,de,1
+Holzhandel,Holzhandel,LOC,-1.0,0.0,de,1
