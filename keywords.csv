@@ -10,3 +10,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel Auffahrunfall',de,Causes,#0099ff,#006bb3,1,0.2218526562499999
 'Nebel Verkehrsunfall',de,Causes,#0099ff,#004d80,1,0.2218526562499999
 'Nebel schlechte Sicht',de,Hazard,#ff0000,#ff4d4d,1,0.187837265180724
+'Nebeltage',de,Hazard,#de3221,#ff4d4d,3,0.543457548294615
