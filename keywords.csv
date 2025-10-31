@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel Wetter',de,Hazard,#ee2211,#ff4d4d,3,0.3926256247868604
 'Nebel Sichtweite',de,Hazard,#ff0000,#ff8080,1,0.3006249563393749
-'Nebel Schaden',de,Impact,#ffcc66,#ffaa00,1,0.2611063175521888
+'Nebel Schaden',de,Impact,#ffcc66,#ffaa00,1,0.25086326219208777
 'Nebeltage',de,Hazard,#de3221,#ff4d4d,1,0.2415209319260146
 'Nebel Tote',de,Impact,#ffcc66,#b37700,1,0.2231977645384062
 'Nebel Nebelschlussleuchte',de,Mitigation,#66ff33,#269900,1,0.2227420200089374
