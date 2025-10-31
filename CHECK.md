@@ -16,7 +16,8 @@
 ### GeonamesAPI  
 :white_check_mark: Geonames key exists  
 :white_check_mark: Geonames respone fine  
-:no_entry: **Not** enabled at Geonames - enable at https://www.geonames.org/manageaccount   
+:white_check_mark: Geonames result fine  
+:white_check_mark: Geonames results found  
 
 ---
   
@@ -71,8 +72,12 @@ Subscribe to Real-Time-News-Data API:
 ---
   
 ### RapidAPI: Deep-Translate-1  
-:no_entry: Deep-Translate-1 respone **failed**  
-Maybe retry later...?  
+:white_check_mark: Deep-Translate-1 respone fine  
+:no_entry: **Not** subscribed to Deep-Translate-1  
+Subscribe to Deep-Translate-1 API:  
+1. Login and 'Subscribe to Test' at https://rapidapi.com/gatzuma/api/deep-translate1  
+2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
+   
 
 ---
   
