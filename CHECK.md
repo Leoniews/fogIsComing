@@ -71,12 +71,8 @@ Subscribe to Real-Time-News-Data API:
 ---
   
 ### RapidAPI: Deep-Translate-1  
-:white_check_mark: Deep-Translate-1 respone fine  
-:no_entry: **Not** subscribed to Deep-Translate-1  
-Subscribe to Deep-Translate-1 API:  
-1. Login and 'Subscribe to Test' at https://rapidapi.com/gatzuma/api/deep-translate1  
-2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
-   
+:no_entry: Deep-Translate-1 respone **failed**  
+Maybe retry later...?  
 
 ---
   
