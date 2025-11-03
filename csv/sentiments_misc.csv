@@ -1,19 +1,34 @@
 ,phrase,label,sentiment,subjectivity,language,count
 "Link
 ","Link
-",MISC,,,de,14
-“,“,MISC,,,de,7
-Wetter“,Wetter“,MISC,,,de,7
+",MISC,,,de,27
+“,“,MISC,,,de,16
+Wetter“,Wetter“,MISC,,,de,8
+Wetterbericht“,Wetterbericht“,MISC,,,de,3
+Starker Wind,Starker Wind,MISC,,,de,3
 Frost am Morgen,Frost am Morgen,MISC,,,de,2
-Kühles Herbstwetter,Kühles Herbstwetter,MISC,,,de,1
-Men…,Men…,MISC,,,de,1
-Be…,Be…,MISC,,,de,1
-Gra…,Gra…,MISC,,,de,1
-minus 1 Grad,minus 1 Grad,MISC,,,de,1
-Rheinl…,Rheinl…,MISC,,,de,1
-Nebel und Sprühregen,Nebel und Sprühregen,MISC,,,de,1
-Sonne“,Sonne“,MISC,,,de,1
-Britischen,Britischen,MISC,,,de,1
-Wetter-Vorhersage“,Wetter-Vorhersage“,MISC,,,de,1
-Nebel und Wolken,Nebel und Wolken,MISC,,,de,1
+Sonne am Nachmittag,Sonne am Nachmittag,MISC,,,de,2
 Wolken und Regen,Wolken und Regen,MISC,,,de,1
+Wetter Bayern“,Wetter Bayern“,MISC,,,de,1
+Tag we,Tag we,MISC,,,de,1
+Das graue Herbstwetter,Das graue Herbstwetter,MISC,,,de,1
+Nebel und Wolken,Nebel und Wolken,MISC,,,de,1
+Britischen,Britischen,MISC,,,de,1
+Deutsche,Deutsche,MISC,,,de,1
+Das Herbstwetter,Das Herbstwetter,MISC,,,de,1
+Regione…,Regione…,MISC,,,de,1
+’s,’s,MISC,,,de,1
+Wetter-Vorhersage“,Wetter-Vorhersage“,MISC,,,de,1
+Kühles Herbstwetter,Kühles Herbstwetter,MISC,,,de,1
+Das Wochenende,Das Wochenende,MISC,,,de,1
+Sonne“,Sonne“,MISC,,,de,1
+Nebel und Sprühregen,Nebel und Sprühregen,MISC,,,de,1
+Nebel am Morgen,Nebel am Morgen,MISC,0.25,0.0,de,1
+Rheinl…,Rheinl…,MISC,,,de,1
+minus 1 Grad,minus 1 Grad,MISC,,,de,1
+Gra…,Gra…,MISC,,,de,1
+Be…,Be…,MISC,,,de,1
+Live-Karten,Live-Karten,MISC,,,de,1
+Goldener Herbst,Goldener Herbst,MISC,,,de,1
+Men…,Men…,MISC,,,de,1
+Gebietsweise kan,Gebietsweise kan,MISC,,,de,1

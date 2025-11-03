@@ -1,43 +1,57 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Berlin,Berlin,LOC,0.3423076923076923,0.0,de,13
-Brandenburg,Brandenburg,LOC,0.3423076923076923,0.0,de,13
-Bayern,Bayern,LOC,-0.3111111111111111,0.2222222222222222,de,9
-Nebel,Nebel,LOC,-0.4428571428571428,0.0,de,7
-Hessen,Hessen,LOC,-0.19999999999999998,0.2857142857142857,de,7
-Offenbach,Offenbach,LOC,0.0,0.16666666666666666,de,6
-Rheinland-Pfalz,Rheinland-Pfalz,LOC,-0.06666666666666665,0.0,de,6
-Saarland,Saarland,LOC,-0.06666666666666665,0.0,de,6
-Deutschland,Deutschland,LOC,0.4666666666666666,0.0,de,3
-NRW,NRW,LOC,-0.2333333333333333,0.6666666666666666,de,3
-lrs,lrs,LOC,-0.2333333333333333,0.0,de,3
-Nordrhein-Westfalen,Nordrhein-Westfalen,LOC,-0.4666666666666666,0.0,de,3
-Freistaat,Freistaat,LOC,0.7,0.0,de,2
-Sturmböen,Sturmböen,LOC,0.0,0.0,de,2
-…,…,LOC,0.0,0.0,de,2
+Bayern,Bayern,LOC,-0.3111111111111111,0.1111111111111111,de,18
+Brandenburg,Brandenburg,LOC,0.278125,0.0,de,16
+Berlin,Berlin,LOC,0.278125,0.0,de,16
+Rheinland-Pfalz,Rheinland-Pfalz,LOC,-0.1481481481481481,0.0,de,9
+Saarland,Saarland,LOC,-0.1481481481481481,0.0,de,9
+Hessen,Hessen,LOC,-0.2722222222222222,0.24074074074074073,de,9
+Offenbach,Offenbach,LOC,-0.0875,0.125,de,8
+Nebel,Nebel,LOC,-0.475,0.0,de,8
+Nordrhein-Westfalen,Nordrhein-Westfalen,LOC,-0.5833333333333334,0.0,de,6
+Thüringen,Thüringen,LOC,-0.48333333333333334,0.0,de,6
+NRW,NRW,LOC,-0.10999999999999999,0.6,de,5
+Freistaat,Freistaat,LOC,0.35,0.0,de,4
+Deutschland,Deutschland,LOC,0.5249999999999999,0.0,de,4
+lrs,lrs,LOC,-0.175,0.0,de,4
+Nebel am Morgen,Nebel am Morgen,LOC,0.25,0.0,de,4
+lsw,lsw,LOC,0.5666666666666667,0.0,de,3
+Wiesbaden,Wiesbaden,LOC,0.0,0.0,de,3
+Alpen,Alpen,LOC,0.0,0.0,de,3
+München,München,LOC,0.0,0.0,de,3
+Stuttgart,Stuttgart,LOC,0.5666666666666667,0.0,de,3
 Temperaturen,Temperaturen,LOC,0.0,0.0,de,2
+Morgenstunden,Morgenstunden,LOC,0.0,0.0,de,2
+Frankfurt,Frankfurt,LOC,-1.0,0.0,de,2
+…,…,LOC,0.0,0.0,de,2
 Feldberg,Feldberg,LOC,0.0,0.0,de,2
+Britischen Inseln,Britischen Inseln,LOC,0.7,0.0,de,2
+Herbst,Herbst,LOC,0.0,0.0,de,2
 Deutschlands,Deutschlands,LOC,0.0,0.0,de,2
+Sturmböen,Sturmböen,LOC,0.0,0.0,de,2
+Hirschhorn-Tunnel,Hirschhorn-Tunnel,LOC,-1.0,0.0,de,2
 Rubihorn,Rubihorn,LOC,-0.925,0.0,de,2
-Brocken,Brocken,LOC,0.0,0.0,de,1
-Schwarzwald,Schwarzwald,LOC,0.0,0.0,de,1
-Wetter-Vorhersage,Wetter-Vorhersage,LOC,0.7,0.0,de,1
+Wetterkarten,Wetterkarten,LOC,0.0,0.0,de,2
 Feldberg w…,Feldberg w…,LOC,0.0,0.0,de,1
-Alpen,Alpen,LOC,0.0,0.0,de,1
-Felssturz am Rubihorn,Felssturz am Rubihorn,LOC,0.0,0.0,de,1
+Sichtweit…,Sichtweit…,LOC,0.0,0.0,de,1
+Baden-Württemberg te,Baden-Württemberg te,LOC,0.0,0.0,de,1
+Steuer,Steuer,LOC,0.175,0.0,de,1
 k…,k…,LOC,0.0,0.0,de,1
 Bodennähe,Bodennähe,LOC,0.0,0.0,de,1
-lsw,lsw,LOC,0.7,0.0,de,1
-Stuttgart,Stuttgart,LOC,0.7,0.0,de,1
-Britischen Inseln,Britischen Inseln,LOC,0.7,0.0,de,1
-Harz,Harz,LOC,0.0,0.0,de,1
-Nordseeinseln,Nordseeinseln,LOC,0.0,0.0,de,1
+Erfurt,Erfurt,LOC,-1.0,0.0,de,1
+Wetter-Vorhersage,Wetter-Vorhersage,LOC,0.7,0.0,de,1
+Südhessen,Südhessen,LOC,-1.0,0.0,de,1
+Baden-Württemberg,Baden-Württemberg,LOC,-0.7,0.0,de,1
 Hanauer Tafel,Hanauer Tafel,LOC,0.0,0.0,de,1
-Frankfurt,Frankfurt,LOC,-1.0,0.0,de,1
 A3,A3,LOC,-1.0,0.0,de,1
 Lkw-Brand,Lkw-Brand,LOC,-1.0,0.0,de,1
 Groß-Umstadt,Groß-Umstadt,LOC,-1.0,0.0,de,1
-Südhessen,Südhessen,LOC,-1.0,0.0,de,1
 Bundesstraße 45,Bundesstraße 45,LOC,-1.0,0.0,de,1
-Landes,Landes,LOC,0.0,0.0,de,1
-Sprühregen,Sprühregen,LOC,-0.7,0.0,de,1
 Holzhandel,Holzhandel,LOC,-1.0,0.0,de,1
+Sprühregen,Sprühregen,LOC,-0.7,0.0,de,1
+Schwarzwald,Schwarzwald,LOC,0.0,0.0,de,1
+Brocken,Brocken,LOC,0.0,0.0,de,1
+Landes,Landes,LOC,0.0,0.0,de,1
+Nordseeinseln,Nordseeinseln,LOC,0.0,0.0,de,1
+Harz,Harz,LOC,0.0,0.0,de,1
+Felssturz am Rubihorn,Felssturz am Rubihorn,LOC,0.0,0.0,de,1
+Kreis Gießen,Kreis Gießen,LOC,0.7,0.0,de,1

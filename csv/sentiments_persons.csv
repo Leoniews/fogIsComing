@@ -1,4 +1,10 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Timon Gremmels,Timon Gremmels,PER,0.0,0.0,de,3
+Taylor Swift,Taylor Swift,PER,0.0,0.0,de,3
 Orkantief Detlef,Orkantief Detlef,PER,0.0,0.0,de,2
+Nebel klart,Nebel klart,PER,-0.7,0.0,de,2
+Wetter Bayern,Wetter Bayern,PER,0.0,0.0,de,2
+Friedrich Wilhelm T,Friedrich Wilhelm T,PER,0.0,0.0,de,2
 Nebel morgens,Nebel morgens,PER,0.0,1.0,de,1
 Anfänglicher Nebel,Anfänglicher Nebel,PER,0.0,0.0,de,1
+Uwe Becker,Uwe Becker,PER,0.0,0.0,de,1
