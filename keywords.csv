@@ -8,6 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel Vorhersage',de,Mitigation,#66ff33,#33cc00,2,0.162949382745919
 'Nebel Verkehrsunfall',de,Causes,#0099ff,#004d80,1,0.1602885441406249
 'Nebeltage',de,Hazard,#de3221,#ff4d4d,1,0.1487099559065636
-'Nebel Witterung',de,Hazard,#ff0000,#ffb3b3,1,0.1395137892573467
+'Nebel Witterung',de,Hazard,#ff0000,#ffb3b3,1,0.14448681086874468
 'Nebel Nebelschlussleuchte',de,Mitigation,#66ff33,#269900,1,0.1379491838004885
 'Nebel Auffahrunfall',de,Causes,#0099ff,#006bb3,1,0.1158084731416014
