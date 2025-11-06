@@ -13,4 +13,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel Auffahrunfall',de,Impact,#eecc55,#ffaa00,1,0.1158084731416014
 'Nebel Wasserdampf',de,Causes,#1199ee,#004d80,2,0.5
 'Nebel Kondensation',de,Causes,#2299dd,#004d80,2,0.5
-'Nebel Klimawandel',de,Causes,#,#,0,0,5
+'Nebel Klimawandel',de,Causes,#,#,0,0.5
