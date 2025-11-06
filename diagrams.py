@@ -434,6 +434,7 @@ def getDay(dateString):
 #topics per date
 indexTopics = {}
 for index, column in newsDf.iterrows():
+    #print(column['keyword'])
     dayDate = getDay(column.published)
     if(not dayDate in indexTopics):
         indexTopics[dayDate] = {}
@@ -454,8 +455,14 @@ for index, column in newsDf.iterrows():
         if(not key in quote):
             anyFound = False
       foundTopics[column3['topic']] = anyFound
-      
-    foundTopics[column3['topic']] = True
+
+    for index3, column3 in keywordsColorsDF.iterrows():
+      print([column3['keyword'],column['keyword']])
+      if(column3['keyword'] == column['keyword']):   
+        foundTopics[column3['topic']] = True
+        #print("fOUND") 
+
+    #print([column['keyword'], foundTopics[column3['topic']]])
     for index2, column2 in topicsColorsDF.iterrows():
         if(foundTopics[column2['topic']]):
             indexTopics[dayDate][column2['topic']] += 1
