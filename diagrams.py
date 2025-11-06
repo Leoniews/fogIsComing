@@ -445,11 +445,17 @@ for index, column in newsDf.iterrows():
        foundTopics[column2['topic']] = False
 
     for index3, column3 in keywordsColorsDF.iterrows():
-        #if(not column3['topic'] in indexTopics[dayDate]):
-        #    indexTopic[dayDate][column3['topic']] = 0
-        keyword = column3['keyword'].strip("'") 
-        if(keyword in quote):
-            foundTopics[column3['topic']] = True
+      #if(not column3['topic'] in indexTopics[dayDate]):
+      #    indexTopic[dayDate][column3['topic']] = 0
+        
+      keyword = column3['keyword'].strip("'") 
+      anyFound = True
+      for key in keyword.split(' '): 
+        if(not key in quote):
+            anyFound = False
+      foundTopics[column3['topic']] = anyFound
+      
+    foundTopics[column3['topic']] = True
     for index2, column2 in topicsColorsDF.iterrows():
         if(foundTopics[column2['topic']]):
             indexTopics[dayDate][column2['topic']] += 1
