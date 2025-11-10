@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nebel Kondensation',de,Causes,#1E88E5,#80DEEA,1,0.425
-'Nebel Wasserdampf',de,Causes,#1E88E5,#004d80,1,0.31434108062946875
+'Nebel Kondensation',de,Causes,#1E88E5,#80DEEA,1,0.36124999999999996
+'Nebel Wasserdampf',de,Causes,#1E88E5,#004d80,1,0.3143410806294687
 'Nebel Klimawandel',de,Causes,#1E88E5,#4FC3F7,1,0.3076175771749999
 'Nebel Wetter',de,Hazard,#A03232,#ff4d4d,3,0.3070211786438215
 'Nebel schlechte Sicht',de,Hazard,#A03232,#ff4d4d,1,0.187837265180724
