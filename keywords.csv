@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel Verletzte',de,Impacts,#FBC02D,#e69900,1,0.153021032048562
 'Nebel Vorhersage',de,Mitigation,#689F38,#33cc00,2,0.1529971837839264
 'Nebel Sichtweite',de,Hazard,#A03232,#ff8080,1,0.1511562786265972
-'Nebel Nebelschlussleuchte',de,Mitigation,#689F38,#269900,1,0.1450068812304152
 'Nebel Witterung',de,Hazard,#A03232,#ffb3b3,1,0.1355638642384329
 'Nebeltage',de,Hazard,#A03232,#ff4d4d,1,0.126553477520579
+'Nebel Nebelschlussleuchte',de,Mitigation,#689F38,#269900,1,0.12400592404585291
 'Nebel Wasserdampf',de,Causes,#1E88E5,#004d80,1,0.1014500392093864
 'Nebel Verkehrsunfall',de,Impacts,#FBC02D,#ffaa00,1,0.083671621844807
 'Nebel Auffahrunfall',de,Impacts,#FBC02D,#ffaa00,1,0.083671621844807
