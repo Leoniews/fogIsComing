@@ -54,7 +54,8 @@
 ### RapidAPI: Real-Time-News-Data  
 :white_check_mark: Real-Time-News-Data respone fine  
 :white_check_mark: Real-Time-News-Data status fine  
-:white_check_mark: Real-Time-News-Data results found  
+:no_entry: Real-Time-News-Data results **not** found  
+Maybe retry later...?  
 
 ---
   
