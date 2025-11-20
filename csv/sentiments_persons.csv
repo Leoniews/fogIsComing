@@ -1,26 +1,26 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
-Timon Gremmels,Timon Gremmels,PER,0.0,0.0,de,3,,,,,,
-Taylor Swift,Taylor Swift,PER,0.0,0.0,de,3,,,,,,
-Orkantief Detlef,Orkantief Detlef,PER,0.0,0.0,de,2,,,,,,
-Wetter Bayern,Wetter Bayern,PER,0.0,0.0,de,2,,,,,,
-Nebel klart,Nebel klart,PER,-0.7,0.0,de,2,,,,,,
-Friedrich Wilhelm T,Friedrich Wilhelm T,PER,0.0,0.0,de,2,,,,,,
-Nebelmaschine anwirft,Nebelmaschine anwirft,PER,0.7,0.0,de,1,,,,,,
-neblig-trübes Wetter,neblig-trübes Wetter,PER,0.0,0.0,de,1,,,,,,
-Mittwoch sonnig,Mittwoch sonnig,PER,0.7,0.0,de,1,,,,,,
-Matteo Ambros,Matteo Ambros,PER,0.0,0.0,de,1,,,,,,
-Matteo Ambrosini,Matteo Ambrosini,PER,0.0,0.0,de,1,,,,,,
-Wolodymyr Selenskyj,Wolodymyr Selenskyj,PER,0.7,0.0,de,1,,,,,,
-Donald Trump,Donald Trump,PER,0.0,0.0,de,1,,,,,,
-Nowhorod-Siwerskyj s,Nowhorod-Siwerskyj s,PER,0.0,0.0,de,1,,,,,,
-Tag trüb,Tag trüb,PER,0.15000000000000002,0.0,de,1,,,,,,
-Uwe Becker,Uwe Becker,PER,0.0,0.0,de,1,,,,,,
-Emmanuel Macron,Emmanuel Macron,PER,-0.7,0.0,de,1,,,,,,
-Sees Ra,Sees Ra,PER,0.0,0.0,de,1,,,,,,
-Erich Wolfgang Korngold,Erich Wolfgang Korngold,PER,0.0,0.0,de,1,,,,,,
-Okarina Peter,Okarina Peter,PER,0.0,0.0,de,1,,,,,,
-Timo Dentler,Timo Dentler,PER,0.0,0.0,de,1,,,,,,
-Angela Denoke,Angela Denoke,PER,-1.0,0.0,de,1,,,,,,
-Anfänglicher Nebel,Anfänglicher Nebel,PER,0.0,0.0,de,1,,,,,,
-Nebel morgens,Nebel morgens,PER,0.0,1.0,de,1,,,,,,
-Christian Gratzer,Christian Gratzer,PER,0.0,0.0,de,1,,,,,,
+,phrase,label,sentiment,subjectivity,language,count
+Orkantief Detlef,Orkantief Detlef,PER,0.0,0.0,de,1.0
+Taylor Swift,Taylor Swift,PER,0.0,0.0,de,1.0
+neblig-trübes Wetter,neblig-trübes Wetter,PER,0.0,0.0,de,1.0
+Mittwoch sonnig,Mittwoch sonnig,PER,0.7,0.0,de,1.0
+Matteo Ambros,Matteo Ambros,PER,0.0,0.0,de,1.0
+Matteo Ambrosini,Matteo Ambrosini,PER,0.0,0.0,de,1.0
+Nowhorod-Siwerskyj s,Nowhorod-Siwerskyj s,PER,0.0,0.0,de,1.0
+Donald Trump,Donald Trump,PER,0.0,0.0,de,1.0
+Wolodymyr Selenskyj,Wolodymyr Selenskyj,PER,0.7,0.0,de,1.0
+Tag trüb,Tag trüb,PER,0.15000000000000002,0.0,de,1.0
+Nebelmaschine anwirft,Nebelmaschine anwirft,PER,0.7,0.0,de,1.0
+Friedrich Wilhelm T,Friedrich Wilhelm T,PER,0.0,0.0,de,1.0
+Uwe Becker,Uwe Becker,PER,0.0,0.0,de,1.0
+Nebel klart,Nebel klart,PER,-1.4,0.0,de,1.0
+Timon Gremmels,Timon Gremmels,PER,0.0,0.0,de,1.0
+Emmanuel Macron,Emmanuel Macron,PER,-0.7,0.0,de,1.0
+Sees Ra,Sees Ra,PER,0.0,0.0,de,1.0
+Erich Wolfgang Korngold,Erich Wolfgang Korngold,PER,0.0,0.0,de,1.0
+Okarina Peter,Okarina Peter,PER,0.0,0.0,de,1.0
+Timo Dentler,Timo Dentler,PER,0.0,0.0,de,1.0
+Angela Denoke,Angela Denoke,PER,-1.0,0.0,de,1.0
+Anfänglicher Nebel,Anfänglicher Nebel,PER,0.0,0.0,de,1.0
+Nebel morgens,Nebel morgens,PER,0.0,1.0,de,1.0
+Wetter Bayern,Wetter Bayern,PER,0.0,0.0,de,1.0
+Christian Gratzer,Christian Gratzer,PER,0.0,0.0,de,1.0
