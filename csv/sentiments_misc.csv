@@ -1,47 +1,49 @@
 ,phrase,label,sentiment,subjectivity,language,count
 "Link
 ","Link
-",MISC,,,de,24.600000000000016
-“,“,MISC,,,de,4.7
-Wetter“,Wetter“,MISC,,,de,3.4000000000000004
+",MISC,,,de,25.400000000000016
+“,“,MISC,0.6000000000000001,2.0,de,4.7
+Wetter“,Wetter“,MISC,,,de,4.2
 Deutsche,Deutsche,MISC,,,de,2.8
 Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,2.6000000000000014
 russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,2.6000000000000014
+Wetterbericht“,Wetterbericht“,MISC,,,de,2.1000000000000005
+Sonne-Comeback,Sonne-Comeback,MISC,,,de,2.0
 Wettervorhersage“,Wettervorhersage“,MISC,,,de,2.0
 Freundliches Wetter,Freundliches Wetter,MISC,,,de,2.0
-Sonne-Comeback,Sonne-Comeback,MISC,,,de,2.0
 Das Herbstwetter,Das Herbstwetter,MISC,,,de,1.8
+Südwest-Regionen,Südwest-Regionen,MISC,,,de,1.8
+Vorhersa…,Vorhersa…,MISC,,,de,1.8
 Nebel und Wolken,Nebel und Wolken,MISC,,,de,1.8
 T…,T…,MISC,,,de,1.8
-Südwest-Regionen,Südwest-Regionen,MISC,,,de,1.8
-Wetterbericht“,Wetterbericht“,MISC,,,de,1.3000000000000003
 ukrainische,ukrainische,MISC,,,de,1.2000000000000002
 Deutschen,Deutschen,MISC,,,de,1.2000000000000002
-sozialen,sozialen,MISC,,,de,1.1
-russischer,russischer,MISC,,,de,1.1
-Wetter-Mix“,Wetter-Mix“,MISC,,,de,1.1
-russischen,russischen,MISC,,,de,1.1
 T-Shirt-Wetter,T-Shirt-Wetter,MISC,,,de,1.1
+russischen,russischen,MISC,,,de,1.1
+sozialen,sozialen,MISC,,,de,1.1
+Wetter-Mix“,Wetter-Mix“,MISC,,,de,1.1
 russischem,russischem,MISC,,,de,1.1
+russischer,russischer,MISC,,,de,1.1
 ukrainischen,ukrainischen,MISC,,,de,1.1
-Die erste Novemberwoche,Die erste Novemberwoche,MISC,,,de,1.0
 Gefahr für Privatsphäre und nationale Sicherheit,Gefahr für Privatsphäre und nationale Sicherheit,MISC,,,de,1.0
-Englische,Englische,MISC,,,de,1.0
 Wolf,Wolf,MISC,,,de,1.0
-Sonntagnachmittag,Sonntagnachmittag,MISC,,,de,1.0
+Englische,Englische,MISC,,,de,1.0
+All you need to know about how adtech data exposes the EU to espionage“,All you need to know about how adtech data exposes the EU to espionage“,MISC,,,de,1.0
 Kühles Herbstwetter,Kühles Herbstwetter,MISC,,,de,1.0
 deutschen,deutschen,MISC,,,de,1.0
-Handy-Ortungen ze…,Handy-Ortungen ze…,MISC,,,de,1.0
+Sonntagnachmittag,Sonntagnachmittag,MISC,,,de,1.0
+Die erste Novemberwoche,Die erste Novemberwoche,MISC,,,de,1.0
+DWD-Prognose,DWD-Prognose,MISC,,,de,1.0
 Herbst bringt Sonne,Herbst bringt Sonne,MISC,,,de,1.0
-Regionalverwaltung,Regionalverwaltung,MISC,,,de,1.0
-Patriot-Systeme,Patriot-Systeme,MISC,,,de,1.0
-Angriff auf Ölterminal,Angriff auf Ölterminal,MISC,,,de,1.0
 Russische,Russische,MISC,,,de,1.0
 Russen,Russen,MISC,,,de,1.0
-All you need to know about how adtech data exposes the EU to espionage“,All you need to know about how adtech data exposes the EU to espionage“,MISC,,,de,1.0
-Prognose“,Prognose“,MISC,,,de,1.0
-DWD-Prognose,DWD-Prognose,MISC,,,de,1.0
+Patriot'-Komponente,Patriot'-Komponente,MISC,,,de,1.0
+Patriot-Systeme,Patriot-Systeme,MISC,,,de,1.0
+Handy-Ortungen ze…,Handy-Ortungen ze…,MISC,,,de,1.0
+A…,A…,MISC,,,de,1.0
 Die Wolken,Die Wolken,MISC,,,de,1.0
+Herbstwett…,Herbstwett…,MISC,,,de,1.0
+Fährfrau …,Fährfrau …,MISC,,,de,1.0
 Temperatur-Jo-Jo,Temperatur-Jo-Jo,MISC,,,de,1.0
 Das Wetter,Das Wetter,MISC,,,de,1.0
 Wochenstart“,Wochenstart“,MISC,,,de,1.0
@@ -51,24 +53,23 @@ Wetter in Nordrhein-Westfalen“,Wetter in Nordrhein-Westfalen“,MISC,,,de,1.0
 Rheinla…,Rheinla…,MISC,,,de,1.0
 Die neue Woche,Die neue Woche,MISC,,,de,1.0
 Wer am Sonntag,Wer am Sonntag,MISC,,,de,1.0
-Herbstwett…,Herbstwett…,MISC,,,de,1.0
 Das Wetter im Freistaat,Das Wetter im Freistaat,MISC,,,de,1.0
+Größter Vollmond des Jahres,Größter Vollmond des Jahres,MISC,,,de,1.0
 PC brau…,PC brau…,MISC,,,de,1.0
 Core Ultra,Core Ultra,MISC,,,de,1.0
 Gratis-Beilage,Gratis-Beilage,MISC,,,de,1.0
 CPU,CPU,MISC,,,de,1.0
 Dein Prozessor,Dein Prozessor,MISC,,,de,1.0
-Vorhersa…,Vorhersa…,MISC,,,de,1.0
-Deutschem…,Deutschem…,MISC,,,de,1.0
-ukrainischen Armee,ukrainischen Armee,MISC,,,de,1.0
-A…,A…,MISC,,,de,1.0
-Donau-Nebel,Donau-Nebel,MISC,-0.7,0.0,de,1.0
-Sonne am Tag,Sonne am Tag,MISC,,,de,1.0
-Größter Vollmond des Jahres,Größter Vollmond des Jahres,MISC,,,de,1.0
 Gefechten,Gefechten,MISC,,,de,1.0
+Donau-Nebel,Donau-Nebel,MISC,-0.7,0.0,de,1.0
+Deutschem…,Deutschem…,MISC,,,de,1.0
+Prognose“,Prognose“,MISC,,,de,1.0
+Sonne am Tag,Sonne am Tag,MISC,,,de,1.0
+Angriff auf Ölterminal,Angriff auf Ölterminal,MISC,,,de,1.0
 estländische Außenministerium,estländische Außenministerium,MISC,,,de,1.0
-türkischen,türkischen,MISC,,,de,1.0
-Nebel und Sprühregen,Nebel und Sprühregen,MISC,,,de,1.0
+ukrainischen Armee,ukrainischen Armee,MISC,,,de,1.0
+Regionalverwaltung,Regionalverwaltung,MISC,,,de,1.0
+Hamburger,Hamburger,MISC,,,de,1.0
 Das graue Herbstwetter,Das graue Herbstwetter,MISC,,,de,1.0
 Regione…,Regione…,MISC,,,de,1.0
 ’s,’s,MISC,,,de,1.0
@@ -78,9 +79,9 @@ Britischen,Britischen,MISC,,,de,1.0
 Das Wochenende,Das Wochenende,MISC,,,de,1.0
 Der Auftakt,Der Auftakt,MISC,,,de,1.0
 Sonne“,Sonne“,MISC,,,de,1.0
-Nebel am Morgen,Nebel am Morgen,MISC,1.0,0.0,de,1.0
-Trüb,Trüb,MISC,,,de,1.0
+Nebel und Sprühregen,Nebel und Sprühregen,MISC,,,de,1.0
 Sonne am Nachmittag,Sonne am Nachmittag,MISC,,,de,1.0
+Nebel am Morgen,Nebel am Morgen,MISC,1.0,0.0,de,1.0
 Rheinl…,Rheinl…,MISC,,,de,1.0
 minus 1 Grad,minus 1 Grad,MISC,,,de,1.0
 Gra…,Gra…,MISC,,,de,1.0
@@ -89,28 +90,28 @@ Be…,Be…,MISC,,,de,1.0
 Live-Karten,Live-Karten,MISC,,,de,1.0
 Goldener Herbst,Goldener Herbst,MISC,,,de,1.0
 Men…,Men…,MISC,,,de,1.0
-Hamburger,Hamburger,MISC,,,de,1.0
+Trüb,Trüb,MISC,,,de,1.0
 …,…,MISC,0.0,0.0,de,1.0
-Türkische,Türkische,MISC,,,de,1.0
-i…,i…,MISC,,,de,1.0
+Wetterausblick“,Wetterausblick“,MISC,,,de,1.0
+Hause,Hause,MISC,,,de,1.0
 russische,russische,MISC,,,de,1.0
-S…,S…,MISC,,,de,1.0
-P…,P…,MISC,,,de,1.0
 AFP,AFP,MISC,,,de,1.0
+türkischen,türkischen,MISC,,,de,1.0
+Türkische,Türkische,MISC,,,de,1.0
 russisches,russisches,MISC,,,de,1.0
 ukrainischer,ukrainischer,MISC,,,de,1.0
-Patriot'-Komponente,Patriot'-Komponente,MISC,,,de,1.0
+S…,S…,MISC,,,de,1.0
+P…,P…,MISC,,,de,1.0
 Sturm“,Sturm“,MISC,,,de,1.0
-Hause,Hause,MISC,,,de,1.0
+i…,i…,MISC,,,de,1.0
+d…,d…,MISC,,,de,1.0
 Samp/T Mamba,Samp/T Mamba,MISC,,,de,1.0
-Wetterausblick“,Wetterausblick“,MISC,,,de,1.0
 Gebietsweise kan,Gebietsweise kan,MISC,,,de,1.0
 Starker Wind,Starker Wind,MISC,,,de,1.0
 Wolken und Regen,Wolken und Regen,MISC,,,de,1.0
 Tote Stadt“,Tote Stadt“,MISC,,,de,1.0
 Weimarer Zeit,Weimarer Zeit,MISC,,,de,1.0
-Tag we,Tag we,MISC,,,de,1.0
 Wetter Bayern“,Wetter Bayern“,MISC,,,de,1.0
+Tag we,Tag we,MISC,,,de,1.0
 Zeit,Zeit,MISC,,,de,1.0
-d…,d…,MISC,,,de,1.0
 Mit Tagfahrlicht,Mit Tagfahrlicht,MISC,,,de,1.0
