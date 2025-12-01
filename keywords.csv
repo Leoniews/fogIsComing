@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebeltage',de,Hazard,#A03232,#ff4d4d,1,0.1077204708924921
 'Nebel Nebelschlussleuchte',de,Adaptation,#689F38,#269900,1,0.1063051254389749
 'Nebel Verletzte',de,Impacts,#FBC02D,#e69900,2,0.092351762064046
-'Nebel Kondensation',de,Causes,#1E88E5,#80DEEA,1,0.083671621844807
 'Nebel Klimawandel',de,Causes,#1E88E5,#4FC3F7,1,0.0822189652041
 'Nebel Wasserdampf',de,Causes,#1E88E5,#004d80,1,0.0735751810787816
+'Nebel Kondensation',de,Causes,#1E88E5,#80DEEA,1,0.07112087856808595
 'Nebel Verkehrsunfall',de,Impacts,#FBC02D,#ffaa00,1,0.060452746782873
 'Nebel Auffahrunfall',de,Impacts,#FBC02D,#ffaa00,1,0.051384834765442
