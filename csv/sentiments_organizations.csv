@@ -1,44 +1,46 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.6731266149870802,0.21963824289405684,de,12.9
-DWD,DWD,ORG,-1.0976562499999993,0.16927083333333331,de,12.8
-Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.13063063063063063,0.04504504504504506,de,7.399999999999998
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.46683250414593686,0.19071310116086232,de,20.100000000000005
+DWD,DWD,ORG,-0.7635869565217387,0.11775362318840578,de,18.400000000000002
+Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.1851851851851852,0.03703703703703704,de,8.999999999999998
+Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,-0.3636363636363636,0.0,de,4.4
 Sichtweiten,Sichtweiten,ORG,-0.20588235294117643,0.0,de,3.4000000000000004
-Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,0.12345679012345677,0.3086419753086419,de,2.7
 lhe,lhe,ORG,-0.13580246913580246,0.6172839506172838,de,2.7
+Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,0.12345679012345677,0.3086419753086419,de,2.7
 ntv.de,ntv.de,ORG,0.0,0.0,de,2.6000000000000014
 Liveticker Hessen & Frankfurt,Liveticker Hessen & Frankfurt,ORG,-0.3846153846153846,0.0,de,2.6
-Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,-1.15,0.0,de,2.0
+RLP,RLP,ORG,-0.5384615384615384,0.0,de,2.6
 lby,lby,ORG,0.5166666666666666,0.0,de,2.0
 lnw,lnw,ORG,-0.36842105263157887,0.0,de,1.9000000000000001
 Essen,Essen,ORG,-0.36842105263157887,0.0,de,1.9000000000000001
 VCÖ,VCÖ,ORG,-0.3684210526315789,0.0,de,1.9
 Verkehrsclub Österreich,Verkehrsclub Österreich,ORG,-0.3684210526315789,0.0,de,1.9
-Garagenbrand +++ Frankfurt,Garagenbrand +++ Frankfurt,ORG,-1.1111111111111112,0.0,de,1.8
 Verfolgungsfahrt +++ Liveblog,Verfolgungsfahrt +++ Liveblog,ORG,-1.1111111111111112,0.0,de,1.8
+Garagenbrand +++ Frankfurt,Garagenbrand +++ Frankfurt,ORG,-1.1111111111111112,0.0,de,1.8
 Frankfurt,Frankfurt,ORG,-1.6666666666666665,0.0,de,1.8
 ADAC,ADAC,ORG,-0.5384615384615383,0.25641025641025633,de,1.3000000000000003
-EU,EU,ORG,0.0,0.0,de,1.2000000000000002
 Neue Woche,Neue Woche,ORG,2.4999999999999996,0.0,de,1.2000000000000002
+EU,EU,ORG,0.0,0.0,de,1.2000000000000002
 Berlin/Potsdam,Berlin/Potsdam,ORG,0.27272727272727276,0.0,de,1.1
 Raubtiers,Raubtiers,ORG,0.0,0.0,de,1.1
-…,…,ORG,0.0,0.0,de,1.0
-Zeit für ein CPU Upgrade,Zeit für ein CPU Upgrade,ORG,0.7,0.0,de,1.0
-CPU-Bundle,CPU-Bundle,ORG,0.0,0.0,de,1.0
-Russland,Russland,ORG,0.0,0.0,de,1.0
-Airports,Airports,ORG,0.0,0.0,de,1.0
-Deutsche Wetterd…,Deutsche Wetterd…,ORG,0.0,0.0,de,1.0
-Saporischschja +++,Saporischschja +++,ORG,0.0,0.0,de,1.0
+Handy-Standortdaten,Handy-Standortdaten,ORG,0.0,0.0,de,1.0
+NATO,NATO,ORG,0.0,0.0,de,1.0
+Spionage-Gefahr,Spionage-Gefahr,ORG,0.0,0.0,de,1.0
+Schmuddelwetter,Schmuddelwetter,ORG,-0.7,0.0,de,1.0
 Databroker Files,Databroker Files,ORG,0.0,0.0,de,1.0
 DWD…,DWD…,ORG,0.0,0.0,de,1.0
-Intel,Intel,ORG,0.5,0.0,de,1.0
-Schmuddelwetter,Schmuddelwetter,ORG,-0.7,0.0,de,1.0
-NATO,NATO,ORG,0.0,0.0,de,1.0
-Handy-Standortdaten,Handy-Standortdaten,ORG,0.0,0.0,de,1.0
-Spionage-Gefahr,Spionage-Gefahr,ORG,0.0,0.0,de,1.0
+…,…,ORG,0.0,0.0,de,1.0
 H…,H…,ORG,0.0,0.0,de,1.0
-DW…,DW…,ORG,0.0,0.0,de,1.0
+Deutsche Wetterd…,Deutsche Wetterd…,ORG,0.0,0.0,de,1.0
+CPU-Bundle,CPU-Bundle,ORG,0.0,0.0,de,1.0
+Zeit für ein CPU Upgrade,Zeit für ein CPU Upgrade,ORG,0.7,0.0,de,1.0
+Reg…,Reg…,ORG,0.0,0.0,de,1.0
+russische Armee,russische Armee,ORG,0.0,0.0,de,1.0
+Intel,Intel,ORG,0.5,0.0,de,1.0
 AMD-Dominanz,AMD-Dominanz,ORG,0.5,0.0,de,1.0
+Die neue Woche,Die neue Woche,ORG,0.0,0.0,de,1.0
 Bra…,Bra…,ORG,0.0,0.0,de,1.0
+D…,D…,ORG,0.0,0.0,de,1.0
+ÖAMTC,ÖAMTC,ORG,-0.7,0.0,de,1.0
 d…,d…,ORG,-1.0,0.0,de,1.0
 … Obertshausen,… Obertshausen,ORG,-1.0,0.0,de,1.0
 Niedernhausen +++ Liveblog,Niedernhausen +++ Liveblog,ORG,-1.0,0.0,de,1.0
@@ -47,19 +49,18 @@ ARBÖ,ARBÖ,ORG,-0.7,0.0,de,1.0
 Asfinag,Asfinag,ORG,-0.7,0.0,de,1.0
 Statistik Austria,Statistik Austria,ORG,-1.0,0.0,de,1.0
 Verkehrsclubs Österreich,Verkehrsclubs Österreich,ORG,-1.0,0.0,de,1.0
-Bunte Blätter,Bunte Blätter,ORG,0.9,0.0,de,1.0
 Sonnenschein…,Sonnenschein…,ORG,0.0,0.0,de,1.0
+Bunte Blätter,Bunte Blätter,ORG,0.9,0.0,de,1.0
 bb,bb,ORG,-0.7,0.0,de,1.0
 Begin…,Begin…,ORG,0.0,0.0,de,1.0
-Die neue Woche,Die neue Woche,ORG,0.0,0.0,de,1.0
+speziel…,speziel…,ORG,0.7,0.0,de,1.0
 lrs,lrs,ORG,0.0,0.0,de,1.0
-Grenzfluss +++,Grenzfluss +++,ORG,0.0,0.0,de,1.0
+DW…,DW…,ORG,0.0,0.0,de,1.0
 ei…,ei…,ORG,1.0,0.0,de,1.0
-D…,D…,ORG,0.0,0.0,de,1.0
-AFP,AFP,ORG,0.0,0.0,de,1.0
-ABC News,ABC News,ORG,0.0,0.0,de,1.0
-Odessa +++,Odessa +++,ORG,0.0,0.0,de,1.0
-ukrainischen Streitkräfte,ukrainischen Streitkräfte,ORG,0.0,0.0,de,1.0
+Telegram…,Telegram…,ORG,0.0,0.0,de,1.0
+Grenzfluss +++,Grenzfluss +++,ORG,0.0,0.0,de,1.0
+Deutschland,Deutschland,ORG,0.7,0.0,de,1.0
+Hessen Frankfurt,Hessen Frankfurt,ORG,-1.0,0.0,de,1.0
 Ferrari,Ferrari,ORG,-3.0,0.0,de,1.0
 Deutsc…,Deutsc…,ORG,0.0,0.0,de,1.0
 "Link
@@ -75,27 +76,28 @@ Deutsche…,Deutsche…,ORG,0.0,0.0,de,1.0
 Wetter-Vorhersage,Wetter-Vorhersage,ORG,-1.4,0.0,de,1.0
 Deutsche …,Deutsche …,ORG,0.7,0.0,de,1.0
 ty…,ty…,ORG,0.0,0.0,de,1.0
-Nebel schrä,Nebel schrä,ORG,0.0,0.0,de,1.0
 Der Deutsche Wetterdienst,Der Deutsche Wetterdienst,ORG,0.0,0.0,de,1.0
+Nebel schrä,Nebel schrä,ORG,0.0,0.0,de,1.0
 Spurensicherungsmaßnahmen…,Spurensicherungsmaßnahmen…,ORG,0.0,0.0,de,1.0
 Hessen,Hessen,ORG,-1.0,0.0,de,1.0
 Hessen +++,Hessen +++,ORG,-1.0,0.0,de,1.0
 e…,e…,ORG,0.0,0.0,de,1.0
 Riederwald +++ Liveblog,Riederwald +++ Liveblog,ORG,-1.0,0.0,de,1.0
-Hessen Frankfurt,Hessen Frankfurt,ORG,-1.0,0.0,de,1.0
 SPD,SPD,ORG,0.0,0.0,de,1.0
-Deutschland,Deutschland,ORG,0.7,0.0,de,1.0
-Belgorod +++,Belgorod +++,ORG,0.0,0.0,de,1.0
-ukrainische Luftwaffe,ukrainische Luftwaffe,ORG,0.7,0.0,de,1.0
-russische Streitkräfte,russische Streitkräfte,ORG,0.0,0.0,de,1.0
-Reg…,Reg…,ORG,0.0,0.0,de,1.0
-Ukraine-Krieg +++,Ukraine-Krieg +++,ORG,0.0,0.0,de,1.0
-russische Armee,russische Armee,ORG,0.0,0.0,de,1.0
-Telegram…,Telegram…,ORG,0.0,0.0,de,1.0
-speziel…,speziel…,ORG,0.7,0.0,de,1.0
 Patriot-Luftabwehr,Patriot-Luftabwehr,ORG,0.0,0.0,de,1.0
 Goethe-Universität,Goethe-Universität,ORG,0.0,0.0,de,1.0
 ukrainische Marine,ukrainische Marine,ORG,0.0,0.0,de,1.0
+ABC News,ABC News,ORG,0.0,0.0,de,1.0
+Ukraine-Krieg +++,Ukraine-Krieg +++,ORG,0.0,0.0,de,1.0
+Airports,Airports,ORG,0.0,0.0,de,1.0
+Saporischschja +++,Saporischschja +++,ORG,0.0,0.0,de,1.0
+Odessa +++,Odessa +++,ORG,0.0,0.0,de,1.0
+ukrainische Luftwaffe,ukrainische Luftwaffe,ORG,0.7,0.0,de,1.0
+russische Streitkräfte,russische Streitkräfte,ORG,0.0,0.0,de,1.0
+Russland,Russland,ORG,0.0,0.0,de,1.0
+AFP,AFP,ORG,0.0,0.0,de,1.0
+ukrainischen Streitkräfte,ukrainischen Streitkräfte,ORG,0.0,0.0,de,1.0
+Belgorod +++,Belgorod +++,ORG,0.0,0.0,de,1.0
 Deutsche Wetterdienst für Baden-Württemberg,Deutsche Wetterdienst für Baden-Württemberg,ORG,0.0,0.0,de,1.0
 Nebel,Nebel,ORG,-1.0,0.0,de,1.0
 Krankenhaus +++ Regen,Krankenhaus +++ Regen,ORG,-1.0,0.0,de,1.0
@@ -103,4 +105,4 @@ Löffler-Institut,Löffler-Institut,ORG,0.7,0.0,de,1.0
 Hessen Wiesbaden,Hessen Wiesbaden,ORG,-2.0,0.0,de,1.0
 Minister Gremmels,Minister Gremmels,ORG,0.0,0.0,de,1.0
 regne…,regne…,ORG,0.0,0.0,de,1.0
-ÖAMTC,ÖAMTC,ORG,-0.7,0.0,de,1.0
+Alpenrand lo…,Alpenrand lo…,ORG,0.0,0.0,de,1.0
