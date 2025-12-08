@@ -12,5 +12,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel schlechte Sicht',de,Hazard,#A03232,#ff4d4d,1,0.0819660369311331
 'Nebeltage',de,Hazard,#A03232,#ff4d4d,1,0.0781055679698254
 'Nebel Wasserdampf',de,Causes,#1E88E5,#004d80,1,0.0625389039169643
-'Nebel Auffahrunfall',de,Impacts,#FBC02D,#ffaa00,1,0.043677109550625696
-'Nebel Kondensation',de,Causes,#1E88E5,#80DEEA,1,0.0371255431180317
+'Nebel Auffahrunfall',de,Impacts,#FBC02D,#ffaa00,1,0.0436771095506256
+'Nebel Kondensation',de,Causes,#1E88E5,#80DEEA,1,0.031556711650326946
