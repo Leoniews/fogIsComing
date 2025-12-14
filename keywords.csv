@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nebel Wetter',de,Hazard,#A03232,#ff4d4d,3,0.1304537568565669
+'Nebel Wetter',de,Hazard,#A03232,#ff4d4d,3,0.1194766619644455
 'Nebel Vorhersage',de,Mitigation,#689F38,#33cc00,3,0.0926527286649027
 'Nebel Witterung',de,Hazard,#A03232,#ffb3b3,1,0.0849719549879275
 'Nebel Sichtweite',de,Hazard,#A03232,#ff8080,1,0.0822242978642
@@ -12,5 +12,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel schlechte Sicht',de,Hazard,#A03232,#ff4d4d,1,0.0707212363914631
 'Nebeltage',de,Hazard,#A03232,#ff4d4d,1,0.0663897327743515
 'Nebel Auffahrunfall',de,Impacts,#FBC02D,#ffaa00,1,0.0371255431180317
-'Nebel Kondensation',de,Causes,#1E88E5,#80DEEA,1,0.026823204902777863
+'Nebel Kondensation',de,Causes,#1E88E5,#80DEEA,1,0.0268232049027778
 'Nebel Wasserdampf',de,Causes,#1E88E5,#004d80,1,0.0200485397220011
