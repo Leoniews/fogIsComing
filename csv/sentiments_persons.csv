@@ -1,9 +1,12 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Wetter Bayern,Wetter Bayern,PER,0.0,0.0,de,2.6
 Orkantief Detlef,Orkantief Detlef,PER,0.0,0.0,de,1.0
-Nebelmaschine anwirft,Nebelmaschine anwirft,PER,0.7,0.0,de,1.0
+Tag trüb,Tag trüb,PER,0.15000000000000002,0.0,de,1.0
 Alexander Ohms,Alexander Ohms,PER,0.0,0.0,de,1.0
 Maximilian Koch,Maximilian Koch,PER,0.0,0.0,de,1.0
+Klaus Geßelbauer,Klaus Geßelbauer,PER,0.0,0.0,de,1.0
+Thomas Rindere,Thomas Rindere,PER,0.0,0.0,de,1.0
+Nebel al,Nebel al,PER,1.0,0.0,de,1.0
 Christian Gratzer,Christian Gratzer,PER,0.0,0.0,de,1.0
 neblig-trübes Wetter,neblig-trübes Wetter,PER,0.0,0.0,de,1.0
 Mittwoch sonnig,Mittwoch sonnig,PER,0.7,0.0,de,1.0
@@ -12,9 +15,9 @@ Matteo Ambrosini,Matteo Ambrosini,PER,0.0,0.0,de,1.0
 Nowhorod-Siwerskyj s,Nowhorod-Siwerskyj s,PER,0.0,0.0,de,1.0
 Donald Trump,Donald Trump,PER,0.0,0.0,de,1.0
 Wolodymyr Selenskyj,Wolodymyr Selenskyj,PER,0.7,0.0,de,1.0
-Tag trüb,Tag trüb,PER,0.15000000000000002,0.0,de,1.0
-Friedrich Wilhelm T,Friedrich Wilhelm T,PER,0.0,0.0,de,1.0
+Nebelmaschine anwirft,Nebelmaschine anwirft,PER,0.7,0.0,de,1.0
 Nebel klart,Nebel klart,PER,-1.4,0.0,de,1.0
+Friedrich Wilhelm T,Friedrich Wilhelm T,PER,0.0,0.0,de,1.0
 Taylor Swift,Taylor Swift,PER,0.0,0.0,de,1.0
 Uwe Becker,Uwe Becker,PER,0.0,0.0,de,1.0
 Timon Gremmels,Timon Gremmels,PER,0.0,0.0,de,1.0
