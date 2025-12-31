@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebeltage',de,Hazard,#A03232,#ff4d4d,1,0.1155929037927911
 'Nebel Wetter',de,Hazard,#A03232,#ff4d4d,2,0.1052603900565785
-'Nebel Tote',de,Impacts,#FBC02D,#b37700,2,0.0785508202678863
+'Nebel Tote',de,Impacts,#FBC02D,#b37700,2,0.09036855722770336
 'Nebel Klimawandel',de,Causes,#1E88E5,#4FC3F7,1,0.0767734393599622
 'Nebel Verletzte',de,Impacts,#FBC02D,#e69900,2,0.07462128998193
 'Nebel Vorhersage',de,Mitigation,#689F38,#33cc00,2,0.0732400593231446
