@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel Nebelschlussleuchte',de,Adaptation,#689F38,#269900,1,0.0671275694352104
 'Nebel Klimawandel',de,Causes,#1E88E5,#4FC3F7,1,0.0670576034559678
 'Nebel Vorhersage',de,Mitigation,#689F38,#33cc00,3,0.0661549354246729
-'Nebel Wetter',de,Hazard,#A03232,#ff4d4d,3,0.06411884144886762
-'Nebel Schaden',de,Impacts,#FBC02D,#ffaa00,1,0.0634535413184995
+'Nebel Schaden',de,Impacts,#FBC02D,#ffaa00,1,0.06511647435149381
+'Nebel Wetter',de,Hazard,#A03232,#ff4d4d,3,0.0641188414488676
 'Nebel Witterung',de,Hazard,#A03232,#ffb3b3,1,0.0617972779787775
 'Nebeltage',de,Hazard,#A03232,#ff4d4d,1,0.0617743428836105
 'Nebel Sichtweite',de,Hazard,#A03232,#ff8080,1,0.0601439297659024
