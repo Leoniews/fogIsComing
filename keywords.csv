@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel Nebelschlussleuchte',de,Adaptation,#689F38,#269900,1,0.0425741035043984
 'Nebel Auffahrunfall',de,Impacts,#FBC02D,#ffaa00,1,0.0414486788494356
 'Nebel Verkehrsunfall',de,Impacts,#FBC02D,#ffaa00,1,0.0407010830779705
-'Nebeltage',de,Hazard,#A03232,#ff4d4d,1,0.03879487908589723
+'Nebeltage',de,Hazard,#A03232,#ff4d4d,1,0.0387948790858972
 'Nebel Witterung',de,Hazard,#A03232,#ffb3b3,1,0.0349724491991591
-'Nebel Wasserdampf',de,Causes,#1E88E5,#004d80,1,0.0031924384823829
+'Nebel Wasserdampf',de,Causes,#1E88E5,#004d80,1,0.0028635877100254645
 'Nebel Kondensation',de,Causes,#1E88E5,#80DEEA,1,0.0023431201180748
