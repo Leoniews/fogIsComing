@@ -13,4 +13,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebeltage',de,Hazard,#A03232,#ff4d4d,1,0.0387948790858972
 'Nebel Witterung',de,Hazard,#A03232,#ffb3b3,1,0.0349724491991591
 'Nebel Wasserdampf',de,Causes,#1E88E5,#004d80,1,0.0028635877100254
-'Nebel Kondensation',de,Causes,#1E88E5,#80DEEA,1,0.00199165210036358
+'Nebel Kondensation',de,Causes,#1E88E5,#80DEEA,1,0.001692904285308975
