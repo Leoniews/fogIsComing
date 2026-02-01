@@ -3,11 +3,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel Tote',de,Impacts,#FBC02D,#b37700,1,0.0491139531243246
 'Nebel schlechte Sicht',de,Hazard,#A03232,#ff4d4d,1,0.0451028463989071
 'Nebel Vorhersage',de,Mitigation,#689F38,#33cc00,2,0.0444228945423171
-'Nebel Klimawandel',de,Causes,#1E88E5,#4FC3F7,1,0.0435508626098962
 'Nebel Nebelschlussleuchte',de,Adaptation,#689F38,#269900,1,0.0425741035043984
 'Nebel Verkehrsunfall',de,Impacts,#FBC02D,#ffaa00,1,0.0407010830779705
 'Nebel Verletzte',de,Impacts,#FBC02D,#e69900,1,0.0394006282968334
-'Nebel Sichtweite',de,Hazard,#A03232,#ff8080,1,0.03703951079749024
+'Nebel Klimawandel',de,Causes,#1E88E5,#4FC3F7,1,0.03716824821841177
+'Nebel Sichtweite',de,Hazard,#A03232,#ff8080,1,0.0370395107974902
 'Nebel Schaden',de,Impacts,#FBC02D,#ffaa00,1,0.0368403146754651
 'Nebel Auffahrunfall',de,Impacts,#FBC02D,#ffaa00,1,0.0352313770220202
 'Nebel Witterung',de,Hazard,#A03232,#ffb3b3,1,0.0312267318192852
