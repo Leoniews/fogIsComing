@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel Verletzte',de,Impacts,#FBC02D,#e69900,1,0.0323785804660674
 'Nebel Klimawandel',de,Causes,#1E88E5,#4FC3F7,1,0.0323430859856499
 'Nebel Schaden',de,Impacts,#FBC02D,#ffaa00,1,0.0306750331030235
-'Nebel Tote',de,Impacts,#FBC02D,#b37700,1,0.0300485502749794
+'Nebel Tote',de,Impacts,#FBC02D,#b37700,1,0.02689140273373249
 'Nebel Nebelschlussleuchte',de,Adaptation,#689F38,#269900,1,0.0230805150155678
 'Nebel Witterung',de,Hazard,#A03232,#ffb3b3,1,0.0189535081961156
 'Nebeltage',de,Hazard,#A03232,#ff4d4d,1,0.0176606110828947
