@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nebel Wetter',de,Hazard,#A03232,#ff4d4d,3,0.11492698833027604
+'Nebel Wetter',de,Hazard,#A03232,#ff4d4d,3,0.114926988330276
 'Nebel Sichtweite',de,Hazard,#A03232,#ff8080,1,0.0529401463650599
-'Nebel Vorhersage',de,Mitigation,#689F38,#33cc00,2,0.0476317024206533
+'Nebel Vorhersage',de,Mitigation,#689F38,#33cc00,1,0.0476317024206533
 'Nebeltage',de,Hazard,#A03232,#ff4d4d,1,0.043302529163526
 'Nebel Verletzte',de,Impacts,#FBC02D,#e69900,1,0.0294719883961572
 'Nebel Klimawandel',de,Causes,#1E88E5,#4FC3F7,1,0.0283917130878024
