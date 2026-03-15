@@ -5,10 +5,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebeltage',de,Hazard,#A03232,#ff4d4d,1,0.0369571647889971
 'Nebel Verletzte',de,Impacts,#FBC02D,#e69900,1,0.0294719883961572
 'Nebel Klimawandel',de,Causes,#1E88E5,#4FC3F7,1,0.0283917130878024
-'Nebel schlechte Sicht',de,Hazard,#A03232,#ff4d4d,1,0.0278263248748366
 'Nebel Schaden',de,Impacts,#FBC02D,#ffaa00,1,0.0275739281375699
 'Nebel Verkehrsunfall',de,Impacts,#FBC02D,#ffaa00,1,0.0273134118593263
 'Nebel Auffahrunfall',de,Impacts,#FBC02D,#ffaa00,1,0.0254546698984095
+'Nebel schlechte Sicht',de,Hazard,#A03232,#ff4d4d,1,0.024852496143611107
 'Nebel Tote',de,Impacts,#FBC02D,#b37700,1,0.0237577823236725
 'Nebel Witterung',de,Hazard,#A03232,#ffb3b3,1,0.0170105719666982
 'Nebel Nebelschlussleuchte',de,Adaptation,#689F38,#269900,1,0.0141743212839355
