@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebeltage',de,Hazard,#A03232,#ff4d4d,1,0.0269790793100503
 'Nebel Auffahrunfall',de,Impacts,#FBC02D,#ffaa00,1,0.0254546698984095
 'Nebel schlechte Sicht',de,Hazard,#A03232,#ff4d4d,1,0.0248524961436111
-'Nebel Sichtweite',de,Hazard,#A03232,#ff8080,1,0.024680833588235765
+'Nebel Sichtweite',de,Hazard,#A03232,#ff8080,1,0.0246808335882357
 'Nebel Tote',de,Impacts,#FBC02D,#b37700,1,0.0237577823236725
 'Nebel Verkehrsunfall',de,Impacts,#FBC02D,#ffaa00,1,0.0232164000804273
 'Nebel Witterung',de,Hazard,#A03232,#ffb3b3,1,0.0170105719666982
