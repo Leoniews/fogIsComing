@@ -1,6 +1,6 @@
 ,phrase,label,sentiment,subjectivity,language,count
 DWD,DWD,ORG,-0.2974806201550391,0.04360465116279077,de,68.79999999999988
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.31337830241708853,0.08993816750983712,de,59.29999999999992
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.31337830241708853,0.0899381675098371,de,59.29999999999992
 Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.12199312714776626,0.017182130584192434,de,19.400000000000006
 lby,lby,ORG,0.09880952380952378,0.1309523809523809,de,14.000000000000004
 Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,-0.17661691542288552,0.06218905472636813,de,13.400000000000004
@@ -76,8 +76,8 @@ picture alliance,picture alliance,ORG,0.0,0.0,de,1.0
 vie…,vie…,ORG,0.0,0.0,de,1.0
 Deutsche Wetterdien…,Deutsche Wetterdien…,ORG,0.0,0.0,de,1.0
 Deutschem Wetterdi…,Deutschem Wetterdi…,ORG,0.0,0.0,de,1.0
-Die Woche,Die Woche,ORG,-0.7,0.0,de,1.0
 zei…,zei…,ORG,0.0,0.0,de,1.0
+Die Woche,Die Woche,ORG,-0.7,0.0,de,1.0
 Woche start,Woche start,ORG,0.0,0.0,de,1.0
 Niedrige Temperaturen sorg,Niedrige Temperaturen sorg,ORG,0.0,0.0,de,1.0
 G…,G…,ORG,0.0,0.0,de,1.0
@@ -89,7 +89,7 @@ gefriere…,gefriere…,ORG,0.0,0.0,de,1.0
 l…,l…,ORG,0.0,0.0,de,1.0
 CPU-Bundle,CPU-Bundle,ORG,0.0,0.0,de,1.0
 Begin…,Begin…,ORG,0.0,0.0,de,1.0
-Telegram…,Telegram…,ORG,0.0,0.0,de,1.0
+russische Armee,russische Armee,ORG,0.0,0.0,de,1.0
 Deutsche Wetterdienst für Baden-Württemberg,Deutsche Wetterdienst für Baden-Württemberg,ORG,0.0,0.0,de,1.0
 Krankenhaus +++ Regen,Krankenhaus +++ Regen,ORG,-1.0,0.0,de,1.0
 Löffler-Institut,Löffler-Institut,ORG,0.7,0.0,de,1.0
@@ -107,8 +107,8 @@ Deutsc…,Deutsc…,ORG,0.0,0.0,de,1.0
 ",ORG,0.0,0.0,de,1.0
 Herbstli…,Herbstli…,ORG,0.0,0.0,de,1.0
 Allgemeine Deutsche Automobil-Club,Allgemeine Deutsche Automobil-Club,ORG,0.0,0.0,de,1.0
-München,München,ORG,0.7,0.0,de,1.0
 Nebel ode,Nebel ode,ORG,0.0,0.0,de,1.0
+München,München,ORG,0.7,0.0,de,1.0
 Deutsche…,Deutsche…,ORG,0.0,0.0,de,1.0
 Wetter-Vorhersage,Wetter-Vorhersage,ORG,-1.4,0.0,de,1.0
 Deutsche …,Deutsche …,ORG,0.7,0.0,de,1.0
@@ -119,7 +119,7 @@ Spurensicherungsmaßnahmen…,Spurensicherungsmaßnahmen…,ORG,0.0,0.0,de,1.0
 Hessen,Hessen,ORG,-1.0,0.0,de,1.0
 Hessen +++,Hessen +++,ORG,-1.0,0.0,de,1.0
 e…,e…,ORG,0.0,0.0,de,1.0
-Grenzfluss +++,Grenzfluss +++,ORG,0.0,0.0,de,1.0
+ukrainische Marine,ukrainische Marine,ORG,0.0,0.0,de,1.0
 Patriot-Luftabwehr,Patriot-Luftabwehr,ORG,0.0,0.0,de,1.0
 Die neue Woche,Die neue Woche,ORG,0.0,0.0,de,1.0
 Deutschland,Deutschland,ORG,0.7,0.0,de,1.0
@@ -135,19 +135,19 @@ NATO,NATO,ORG,0.0,0.0,de,1.0
 Handy-Standortdaten,Handy-Standortdaten,ORG,0.0,0.0,de,1.0
 Spionage-Gefahr,Spionage-Gefahr,ORG,0.0,0.0,de,1.0
 Databroker Files,Databroker Files,ORG,0.0,0.0,de,1.0
-ABC News,ABC News,ORG,0.0,0.0,de,1.0
-Ukraine-Krieg +++,Ukraine-Krieg +++,ORG,0.0,0.0,de,1.0
 Airports,Airports,ORG,0.0,0.0,de,1.0
 ukrainische Luftwaffe,ukrainische Luftwaffe,ORG,0.7,0.0,de,1.0
 russische Streitkräfte,russische Streitkräfte,ORG,0.0,0.0,de,1.0
 Russland,Russland,ORG,0.0,0.0,de,1.0
 AFP,AFP,ORG,0.0,0.0,de,1.0
 Saporischschja +++,Saporischschja +++,ORG,0.0,0.0,de,1.0
+Grenzfluss +++,Grenzfluss +++,ORG,0.0,0.0,de,1.0
 Odessa +++,Odessa +++,ORG,0.0,0.0,de,1.0
 ukrainischen Streitkräfte,ukrainischen Streitkräfte,ORG,0.0,0.0,de,1.0
 Belgorod +++,Belgorod +++,ORG,0.0,0.0,de,1.0
 Reg…,Reg…,ORG,0.0,0.0,de,1.0
-ukrainische Marine,ukrainische Marine,ORG,0.0,0.0,de,1.0
-russische Armee,russische Armee,ORG,0.0,0.0,de,1.0
+ABC News,ABC News,ORG,0.0,0.0,de,1.0
+Ukraine-Krieg +++,Ukraine-Krieg +++,ORG,0.0,0.0,de,1.0
+Telegram…,Telegram…,ORG,0.0,0.0,de,1.0
 speziel…,speziel…,ORG,0.7,0.0,de,1.0
 Deutsche Wetterdi…,Deutsche Wetterdi…,ORG,0.0,0.0,de,1.0
