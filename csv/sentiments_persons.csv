@@ -1,7 +1,7 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Wetter Bayern,Wetter Bayern,PER,0.0,0.0,de,2.6
 Sonne Autofahrer,Sonne Autofahrer,PER,0.7777777777777777,0.0,de,1.8
-Dauerfrost möglic,Dauerfrost möglic,PER,0.0,0.0,de,1.0
+Orkantief Detlef,Orkantief Detlef,PER,0.0,0.0,de,1.0
 Nebel al,Nebel al,PER,1.0,0.0,de,1.0
 Thomas Rindere,Thomas Rindere,PER,0.0,0.0,de,1.0
 Klaus Geßelbauer,Klaus Geßelbauer,PER,0.0,0.0,de,1.0
@@ -10,9 +10,9 @@ Alexander Ohms,Alexander Ohms,PER,0.0,0.0,de,1.0
 Martin Schwienbacher,Martin Schwienbacher,PER,0.0,0.0,de,1.0
 Mexiko gesta,Mexiko gesta,PER,0.0,0.0,de,1.0
 Frostiges Wetter,Frostiges Wetter,PER,0.0,0.0,de,1.0
-Orkantief Detlef,Orkantief Detlef,PER,0.0,0.0,de,1.0
-neblig-trübes Wetter,neblig-trübes Wetter,PER,0.0,0.0,de,1.0
+Dauerfrost möglic,Dauerfrost möglic,PER,0.0,0.0,de,1.0
 Martin Flicker,Martin Flicker,PER,0.0,1.0,de,1.0
+neblig-trübes Wetter,neblig-trübes Wetter,PER,0.0,0.0,de,1.0
 Anschlussstelle Penkun,Anschlussstelle Penkun,PER,0.0,0.0,de,1.0
 Emma Aicher,Emma Aicher,PER,1.0,0.0,de,1.0
 Kira Weidle-Winkelmann,Kira Weidle-Winkelmann,PER,1.0,0.0,de,1.0
@@ -20,6 +20,7 @@ Marco Odermatt,Marco Odermatt,PER,0.0,0.0,de,1.0
 Alexis Monney,Alexis Monney,PER,0.0,0.0,de,1.0
 Stefan Rogentin sowi,Stefan Rogentin sowi,PER,0.0,0.0,de,1.0
 auflösendem Nebel,auflösendem Nebel,PER,0.2,0.0,de,1.0
+Morgens Nebel,Morgens Nebel,PER,0.0,0.0,de,1.0
 Christian Gratzer,Christian Gratzer,PER,0.0,0.0,de,1.0
 Mittwoch sonnig,Mittwoch sonnig,PER,0.7,0.0,de,1.0
 Nebel klart,Nebel klart,PER,-1.4,0.0,de,1.0
@@ -42,4 +43,4 @@ Nowhorod-Siwerskyj s,Nowhorod-Siwerskyj s,PER,0.0,0.0,de,1.0
 Wolodymyr Selenskyj,Wolodymyr Selenskyj,PER,0.7,0.0,de,1.0
 Donald Trump,Donald Trump,PER,0.0,0.0,de,1.0
 Matteo Ambrosini,Matteo Ambrosini,PER,0.0,0.0,de,1.0
-Morgens Nebel,Morgens Nebel,PER,0.0,0.0,de,1.0
+Medico International,Medico International,PER,0.0,0.0,de,1.0
