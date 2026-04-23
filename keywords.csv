@@ -11,6 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel Sichtweite',de,Hazard,#A03232,#ff8080,1,0.0185369727675002
 'Nebeltage',de,Hazard,#A03232,#ff4d4d,1,0.0166769129187845
 'Nebel Witterung',de,Hazard,#A03232,#ffb3b3,1,0.0134002492459393
-'Nebel Nebelschlussleuchte',de,Adaptation,#689F38,#269900,1,0.008704805058496806
-'Nebel Wasserdampf',de,Causes,#1E88E5,#004d80,1,0.0011224488980616
+'Nebel Nebelschlussleuchte',de,Adaptation,#689F38,#269900,1,0.0087048050584968
+'Nebel Wasserdampf',de,Causes,#1E88E5,#004d80,1,0.00095408156335236
 'Nebel Kondensation',de,Causes,#1E88E5,#80DEEA,1,0.0007335483031395
