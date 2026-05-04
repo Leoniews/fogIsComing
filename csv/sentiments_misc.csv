@@ -1,14 +1,14 @@
 ,phrase,label,sentiment,subjectivity,language,count
 "Link
 ","Link
-",MISC,,,de,117.99999999999972
-“,“,MISC,-0.10135135135135134,0.3378378378378379,de,38.99999999999999
+",MISC,,,de,120.39999999999971
+“,“,MISC,-0.10135135135135134,0.3378378378378379,de,39.79999999999999
 Wetter“,Wetter“,MISC,,,de,30.400000000000016
 Deutsche,Deutsche,MISC,,,de,7.599999999999999
 Wetterbericht“,Wetterbericht“,MISC,,,de,6.1
 Wettervorhersage“,Wettervorhersage“,MISC,,,de,5.999999999999999
-Nebel und Wolken,Nebel und Wolken,MISC,,,de,5.8
 Weihnachten,Weihnachten,MISC,,,de,5.8
+Nebel und Wolken,Nebel und Wolken,MISC,,,de,5.8
 DWD-Vorhersage,DWD-Vorhersage,MISC,,,de,5.0
 A31,A31,MISC,,,de,4.2
 Tages,Tages,MISC,,,de,3.7
@@ -17,131 +17,133 @@ Wetter-Aussichten,Wetter-Aussichten,MISC,,,de,3.4000000000000004
 Wetterprognose“,Wetterprognose“,MISC,,,de,3.4000000000000004
 Sonne“,Sonne“,MISC,,,de,3.4000000000000004
 BILD,BILD,MISC,,,de,2.9000000000000004
-Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,2.6000000000000014
 russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,2.6000000000000014
-Nebel am Morgen,Nebel am Morgen,MISC,0.3846153846153846,0.0,de,2.6
+Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,2.6000000000000014
+Nebel am Morgen,Nebel am Morgen,MISC,0.2941176470588235,0.0,de,2.6
 S…,S…,MISC,,,de,2.6
-Sonne verwöhnt den Freistaat,Sonne verwöhnt den Freistaat,MISC,,,de,2.6
 mexikanischen Marine,mexikanischen Marine,MISC,,,de,2.6
+Sonne verwöhnt den Freistaat,Sonne verwöhnt den Freistaat,MISC,,,de,2.6
 Nebelschwaden,Nebelschwaden,MISC,,,de,2.4000000000000004
 Grauer Himmel,Grauer Himmel,MISC,,,de,2.4000000000000004
 Sonne-Comeback,Sonne-Comeback,MISC,,,de,2.0
 Freundliches Wetter,Freundliches Wetter,MISC,,,de,2.0
 Nebel und Regen,Nebel und Regen,MISC,,,de,1.9000000000000001
-Das Wetter,Das Wetter,MISC,,,de,1.8
-Sonne am Tag,Sonne am Tag,MISC,0.0,0.0,de,1.8
-Wetteraussichten“,Wetteraussichten“,MISC,,,de,1.8
-Deutschem,Deutschem,MISC,,,de,1.8
-Freistaat,Freistaat,MISC,-0.047413793103448267,0.0,de,1.8
-Das graue Wetter,Das graue Wetter,MISC,,,de,1.8
-Grad i…,Grad i…,MISC,,,de,1.8
-Südwest-Regionen,Südwest-Regionen,MISC,,,de,1.8
-Der Dienstag,Der Dienstag,MISC,,,de,1.8
-Wetter in Bayern“,Wetter in Bayern“,MISC,,,de,1.8
-Vorhersa…,Vorhersa…,MISC,,,de,1.8
-Sachsen,Sachsen,MISC,-0.08771929824561402,0.0,de,1.8
-Deutscher,Deutscher,MISC,,,de,1.8
-Ba…,Ba…,MISC,,,de,1.8
 T…,T…,MISC,,,de,1.8
-Der Winter,Der Winter,MISC,,,de,1.8
-e…,e…,MISC,,,de,1.8
+Das Wetter,Das Wetter,MISC,,,de,1.8
+Grad i…,Grad i…,MISC,,,de,1.8
 A11,A11,MISC,-0.85,0.0,de,1.8
+Der Winter,Der Winter,MISC,,,de,1.8
+Wetteraussichten“,Wetteraussichten“,MISC,,,de,1.8
+Südwest-Regionen,Südwest-Regionen,MISC,,,de,1.8
+Sachsen,Sachsen,MISC,-0.08771929824561402,0.0,de,1.8
+Freistaat,Freistaat,MISC,-0.047413793103448267,0.0,de,1.8
+e…,e…,MISC,,,de,1.8
+Vorhersa…,Vorhersa…,MISC,,,de,1.8
+Sonne am Tag,Sonne am Tag,MISC,0.0,0.0,de,1.8
+Ba…,Ba…,MISC,,,de,1.8
+Deutscher,Deutscher,MISC,,,de,1.8
 Wetter Bayern“,Wetter Bayern“,MISC,,,de,1.8
+Wetter in Bayern“,Wetter in Bayern“,MISC,,,de,1.8
+Das graue Wetter,Das graue Wetter,MISC,,,de,1.8
+Deutschem,Deutschem,MISC,,,de,1.8
 Das Herbstwetter,Das Herbstwetter,MISC,,,de,1.8
-Ö3-Verkehrsredaktion,Ö3-Verkehrsredaktion,MISC,,,de,1.3
+Der Dienstag,Der Dienstag,MISC,,,de,1.8
 Tagfahrlicht.</li><li,Tagfahrlicht.</li><li,MISC,,,de,1.3
-Nebel und grauer Himmel,Nebel und grauer Himmel,MISC,,,de,1.3
-Advent der Winter,Advent der Winter,MISC,,,de,1.3
 Wetter: Heiteres Wetter,Wetter: Heiteres Wetter,MISC,,,de,1.3
-Weltcup-Rennen,Weltcup-Rennen,MISC,,,de,1.3
 Rennens,Rennens,MISC,,,de,1.3
+Ö3-Verkehrsredaktion,Ö3-Verkehrsredaktion,MISC,,,de,1.3
+Nebel und grauer Himmel,Nebel und grauer Himmel,MISC,,,de,1.3
+Weltcup-Rennen,Weltcup-Rennen,MISC,,,de,1.3
+Advent der Winter,Advent der Winter,MISC,,,de,1.3
 ukrainische,ukrainische,MISC,,,de,1.2000000000000002
 sozialen,sozialen,MISC,,,de,1.1
 ukrainischen,ukrainischen,MISC,,,de,1.1
+Wetter-Mix“,Wetter-Mix“,MISC,,,de,1.1
+T-Shirt-Wetter,T-Shirt-Wetter,MISC,,,de,1.1
 russischer,russischer,MISC,,,de,1.1
 russischem,russischem,MISC,,,de,1.1
 russischen,russischen,MISC,,,de,1.1
-T-Shirt-Wetter,T-Shirt-Wetter,MISC,,,de,1.1
-Wetter-Mix“,Wetter-Mix“,MISC,,,de,1.1
-Wiener,Wiener,MISC,,,de,1.0
-Wahlwochenende,Wahlwochenende,MISC,,,de,1.0
-Auf einen bewölkten Himmel,Auf einen bewölkten Himmel,MISC,,,de,1.0
-Schauern“,Schauern“,MISC,,,de,1.0
-Wetter-Experten,Wetter-Experten,MISC,,,de,1.0
-Nebel,Nebel,MISC,0.0,0.0,de,1.0
-Neue Woche,Neue Woche,MISC,,,de,1.0
-Tumult bei Demo,Tumult bei Demo,MISC,,,de,1.0
-et…,et…,MISC,,,de,1.0
-Dauergrau,Dauergrau,MISC,,,de,1.0
-Viel Nebel in Bayern,Viel Nebel in Bayern,MISC,,,de,1.0
-Adventssonntag,Adventssonntag,MISC,,,de,1.0
-Wetter am Sonntag,Wetter am Sonntag,MISC,,,de,1.0
-Heiteres Wetter,Heiteres Wetter,MISC,,,de,1.0
-Jeden Morgen Nebel,Jeden Morgen Nebel,MISC,,,de,1.0
-Nacht und Nebel,Nacht und Nebel,MISC,,,de,1.0
-Sonne und Regen,Sonne und Regen,MISC,,,de,1.0
-Freistaat“,Freistaat“,MISC,,,de,1.0
-Höchsttemperaturen,Höchsttemperaturen,MISC,,,de,1.0
-Tiefdruckgebiet“,Tiefdruckgebiet“,MISC,,,de,1.0
-Untersuchungsausschuss,Untersuchungsausschuss,MISC,,,de,1.0
+Nebel und Wolken“,Nebel und Wolken“,MISC,,,de,1.0
 hessischen,hessischen,MISC,,,de,1.0
-Ungemütliches Wetter,Ungemütliches Wetter,MISC,,,de,1.0
-Der Start,Der Start,MISC,,,de,1.0
-international tourende Dokumentarfilm…,international tourende Dokumentarfilm…,MISC,,,de,1.0
-polnische,polnische,MISC,,,de,1.0
-Ö3-Ve…,Ö3-Ve…,MISC,,,de,1.0
-ein schöner Sonntag,ein schöner Sonntag,MISC,,,de,1.0
 Milde Temperaturen“,Milde Temperaturen“,MISC,,,de,1.0
-Forest“,Forest“,MISC,,,de,1.0
+Gefahr bei Nebel,Gefahr bei Nebel,MISC,,,de,1.0
+Ö3-Ve…,Ö3-Ve…,MISC,,,de,1.0
 ge…,ge…,MISC,,,de,1.0
-A31“,A31“,MISC,,,de,1.0
-Verkehr“,Verkehr“,MISC,,,de,1.0
-hä…,hä…,MISC,,,de,1.0
-Tagesverlauf k,Tagesverlauf k,MISC,,,de,1.0
+Untersuchungsausschuss,Untersuchungsausschuss,MISC,,,de,1.0
+Drifter“,Drifter“,MISC,,,de,1.0
 Guten Abend,Guten Abend,MISC,,,de,1.0
+Morgens Nebel,Morgens Nebel,MISC,,,de,1.0
+Wer blauen Himmel,Wer blauen Himmel,MISC,,,de,1.0
 Der frostige,Der frostige,MISC,,,de,1.0
+Unfal…,Unfal…,MISC,,,de,1.0
 Wetter di…,Wetter di…,MISC,,,de,1.0
-italienische,italienische,MISC,,,de,1.0
-Der Weltcup-Super-G der Männer,Der Weltcup-Super-G der Männer,MISC,,,de,1.0
-Hochnebellage har,Hochnebellage har,MISC,,,de,1.0
-Garmisch-Partenkirchen,Garmisch-Partenkirchen,MISC,-0.41666666666666663,0.0,de,1.0
-österreichischen,österreichischen,MISC,,,de,1.0
-Schnee und Eis,Schnee und Eis,MISC,,,de,1.0
-Eisige Nächte,Eisige Nächte,MISC,,,de,1.0
-Die Mathildenhöhe,Die Mathildenhöhe,MISC,,,de,1.0
+ein schöner Sonntag,ein schöner Sonntag,MISC,,,de,1.0
+Wetter-Experten,Wetter-Experten,MISC,,,de,1.0
+Freistaat“,Freistaat“,MISC,,,de,1.0
+Heiteres Wetter,Heiteres Wetter,MISC,,,de,1.0
+Viel Nebel in Bayern,Viel Nebel in Bayern,MISC,,,de,1.0
+Wetter am Sonntag,Wetter am Sonntag,MISC,,,de,1.0
+Adventssonntag,Adventssonntag,MISC,,,de,1.0
+Tumult bei Demo,Tumult bei Demo,MISC,,,de,1.0
+Frostiges Wetter,Frostiges Wetter,MISC,,,de,1.0
+Dauergrau,Dauergrau,MISC,,,de,1.0
+Kühles Herbstwetter,Kühles Herbstwetter,MISC,,,de,1.0
 Wetter-Wochenende,Wetter-Wochenende,MISC,,,de,1.0
+Ne…,Ne…,MISC,,,de,1.0
+Autofahren,Autofahren,MISC,,,de,1.0
+Garmisch-Partenkirchen,Garmisch-Partenkirchen,MISC,-0.3448275862068965,0.0,de,1.0
+Der Weltcup-Super-G der Männer,Der Weltcup-Super-G der Männer,MISC,,,de,1.0
+Garmisch-Partenkirchen is,Garmisch-Partenkirchen is,MISC,,,de,1.0
+Schweizer,Schweizer,MISC,,,de,1.0
+a…,a…,MISC,,,de,1.0
+Jeden Morgen Nebel,Jeden Morgen Nebel,MISC,,,de,1.0
+et…,et…,MISC,,,de,1.0
+Wahlwochenende,Wahlwochenende,MISC,,,de,1.0
+Neue Woche,Neue Woche,MISC,,,de,1.0
+Nebel,Nebel,MISC,0.0,0.0,de,1.0
+Schauern“,Schauern“,MISC,,,de,1.0
+Sonne und Regen,Sonne und Regen,MISC,,,de,1.0
+Tagesverlauf k,Tagesverlauf k,MISC,,,de,1.0
+hä…,hä…,MISC,,,de,1.0
+Verkehr“,Verkehr“,MISC,,,de,1.0
+A31“,A31“,MISC,,,de,1.0
+Forest“,Forest“,MISC,,,de,1.0
+polnische,polnische,MISC,,,de,1.0
+international tourende Dokumentarfilm…,international tourende Dokumentarfilm…,MISC,,,de,1.0
+Ungemütliches Wetter,Ungemütliches Wetter,MISC,,,de,1.0
+Berliner,Berliner,MISC,,,de,1.0
+Nordrhein-W…,Nordrhein-W…,MISC,,,de,1.0
+Krieg in der Ukraine,Krieg in der Ukraine,MISC,,,de,1.0
+Ski alpin“,Ski alpin“,MISC,,,de,1.0
+Schnee und Eis,Schnee und Eis,MISC,,,de,1.0
+italienische,italienische,MISC,,,de,1.0
+Wetter-Aussichten für Hessen“,Wetter-Aussichten für Hessen“,MISC,,,de,1.0
+Winterwe…,Winterwe…,MISC,,,de,1.0
+Mittag au,Mittag au,MISC,,,de,1.0
+Wetter bringt,Wetter bringt,MISC,,,de,1.0
 Der Samstag,Der Samstag,MISC,,,de,1.0
+Nebelfel…,Nebelfel…,MISC,,,de,1.0
+Hochnebellage har,Hochnebellage har,MISC,,,de,1.0
+Eisige Nächte,Eisige Nächte,MISC,,,de,1.0
 Vorsichtig f,Vorsichtig f,MISC,,,de,1.0
 Volles Programm von Sonne bis Neuschnee,Volles Programm von Sonne bis Neuschnee,MISC,,,de,1.0
 westli…,westli…,MISC,,,de,1.0
-Wetter-Aussichten für Hessen“,Wetter-Aussichten für Hessen“,MISC,,,de,1.0
 Tag sollen die Temperaturen,Tag sollen die Temperaturen,MISC,,,de,1.0
+Ein Tag für die Hütte,Ein Tag für die Hütte,MISC,,,de,1.0
 Tag sollen die Temp…,Tag sollen die Temp…,MISC,,,de,1.0
 Das Wetter im Jänner,Das Wetter im Jänner,MISC,,,de,1.0
-Nebelfel…,Nebelfel…,MISC,,,de,1.0
-Wetter bringt,Wetter bringt,MISC,,,de,1.0
-Unfal…,Unfal…,MISC,,,de,1.0
-Nebel und Wolken“,Nebel und Wolken“,MISC,,,de,1.0
-a…,a…,MISC,,,de,1.0
-Wer blauen Himmel,Wer blauen Himmel,MISC,,,de,1.0
-Ein Tag für die Hütte,Ein Tag für die Hütte,MISC,,,de,1.0
-Schweizer,Schweizer,MISC,,,de,1.0
-Wolkiges Wetter,Wolkiges Wetter,MISC,,,de,1.0
-Morgens Nebel,Morgens Nebel,MISC,,,de,1.0
-Gefahr bei Nebel,Gefahr bei Nebel,MISC,,,de,1.0
-Ski alpin“,Ski alpin“,MISC,,,de,1.0
-Mittag au,Mittag au,MISC,,,de,1.0
-Garmisch-Partenkirchen is,Garmisch-Partenkirchen is,MISC,,,de,1.0
+Wiener,Wiener,MISC,,,de,1.0
+österreichischen,österreichischen,MISC,,,de,1.0
 Gl…,Gl…,MISC,,,de,1.0
-Drifter“,Drifter“,MISC,,,de,1.0
-Frostiges Wetter,Frostiges Wetter,MISC,,,de,1.0
-Ne…,Ne…,MISC,,,de,1.0
-Autofahren,Autofahren,MISC,,,de,1.0
-Winterwe…,Winterwe…,MISC,,,de,1.0
-Kühles Herbstwetter,Kühles Herbstwetter,MISC,,,de,1.0
-Hamburger Familie,Hamburger Familie,MISC,,,de,1.0
-Mann am Kopf verletzt +++ Liveblog,Mann am Kopf verletzt +++ Liveblog,MISC,,,de,1.0
-ukrainischen Armee,ukrainischen Armee,MISC,,,de,1.0
+Höchsttemperaturen,Höchsttemperaturen,MISC,,,de,1.0
+Auf einen bewölkten Himmel,Auf einen bewölkten Himmel,MISC,,,de,1.0
+Der Start,Der Start,MISC,,,de,1.0
+Wolkiges Wetter,Wolkiges Wetter,MISC,,,de,1.0
+Nacht und Nebel,Nacht und Nebel,MISC,,,de,1.0
+Tiefdruckgebiet“,Tiefdruckgebiet“,MISC,,,de,1.0
+Lemming-Effekt“,Lemming-Effekt“,MISC,,,de,1.0
+Die Mathildenhöhe,Die Mathildenhöhe,MISC,,,de,1.0
+Gefechten,Gefechten,MISC,,,de,1.0
 Tote Stadt“,Tote Stadt“,MISC,,,de,1.0
 Wolken und Regen,Wolken und Regen,MISC,,,de,1.0
 Starker Wind,Starker Wind,MISC,,,de,1.0
@@ -150,14 +152,14 @@ Samp/T Mamba,Samp/T Mamba,MISC,,,de,1.0
 i…,i…,MISC,,,de,1.0
 Hause,Hause,MISC,,,de,1.0
 Sturm“,Sturm“,MISC,,,de,1.0
-Angriff auf Ölterminal,Angriff auf Ölterminal,MISC,,,de,1.0
 Regionalverwaltung,Regionalverwaltung,MISC,,,de,1.0
-Gefechten,Gefechten,MISC,,,de,1.0
-Tag we,Tag we,MISC,,,de,1.0
+ukrainischen Armee,ukrainischen Armee,MISC,,,de,1.0
 Patriot'-Komponente,Patriot'-Komponente,MISC,,,de,1.0
+Tag we,Tag we,MISC,,,de,1.0
 Russen,Russen,MISC,,,de,1.0
 Russische,Russische,MISC,,,de,1.0
 Patriot-Systeme,Patriot-Systeme,MISC,,,de,1.0
+Angriff auf Ölterminal,Angriff auf Ölterminal,MISC,,,de,1.0
 russische,russische,MISC,,,de,1.0
 P…,P…,MISC,,,de,1.0
 Türkische,Türkische,MISC,,,de,1.0
@@ -166,7 +168,7 @@ russisches,russisches,MISC,,,de,1.0
 estländische Außenministerium,estländische Außenministerium,MISC,,,de,1.0
 Weimarer Zeit,Weimarer Zeit,MISC,,,de,1.0
 Zeit,Zeit,MISC,,,de,1.0
-Karambolage,Karambolage,MISC,,,de,1.0
+AFP,AFP,MISC,,,de,1.0
 Der Auftakt,Der Auftakt,MISC,,,de,1.0
 Men…,Men…,MISC,,,de,1.0
 Goldener Herbst,Goldener Herbst,MISC,,,de,1.0
@@ -191,10 +193,9 @@ Trüb,Trüb,MISC,,,de,1.0
 …,…,MISC,0.0,0.0,de,1.0
 Wetterausblick“,Wetterausblick“,MISC,,,de,1.0
 ukrainischer,ukrainischer,MISC,,,de,1.0
-AFP,AFP,MISC,,,de,1.0
 Herbst bringt Sonne,Herbst bringt Sonne,MISC,,,de,1.0
+Mann am Kopf verletzt +++ Liveblog,Mann am Kopf verletzt +++ Liveblog,MISC,,,de,1.0
 Verkehrsunfällen,Verkehrsunfällen,MISC,0.0,0.0,de,1.0
-Wetter in Nordrhein-Westfalen“,Wetter in Nordrhein-Westfalen“,MISC,,,de,1.0
 Tagen davor,Tagen davor,MISC,,,de,1.0
 Das Wetter in Berlin,Das Wetter in Berlin,MISC,,,de,1.0
 Wochenstart“,Wochenstart“,MISC,,,de,1.0
@@ -204,9 +205,9 @@ Nächtlicher Nebel“,Nächtlicher Nebel“,MISC,,,de,1.0
 Auf Nebel,Auf Nebel,MISC,,,de,1.0
 Mit Tagfahrlicht,Mit Tagfahrlicht,MISC,,,de,1.0
 Tote Familie,Tote Familie,MISC,,,de,1.0
-Lemming-Effekt“,Lemming-Effekt“,MISC,,,de,1.0
-deutschen,deutschen,MISC,,,de,1.0
+Hamburger Familie,Hamburger Familie,MISC,,,de,1.0
 Jahr 36 Verkehrsunfälle,Jahr 36 Verkehrsunfälle,MISC,,,de,1.0
+Rheinla…,Rheinla…,MISC,,,de,1.0
 Winter-Tag,Winter-Tag,MISC,,,de,1.0
 Die…,Die…,MISC,,,de,1.0
 Regen“,Regen“,MISC,,,de,1.0
@@ -216,10 +217,11 @@ RLP,RLP,MISC,,,de,1.0
 Nebel-Saison“,Nebel-Saison“,MISC,,,de,1.0
 schön lange Zeit,schön lange Zeit,MISC,,,de,1.0
 Der Nebel,Der Nebel,MISC,,,de,1.0
-Rheinla…,Rheinla…,MISC,,,de,1.0
+Karambolage,Karambolage,MISC,,,de,1.0
+Wetter in Nordrhein-Westfalen“,Wetter in Nordrhein-Westfalen“,MISC,,,de,1.0
 Die neue Woche,Die neue Woche,MISC,,,de,1.0
-Wer am Sonntag,Wer am Sonntag,MISC,,,de,1.0
-Herbstwett…,Herbstwett…,MISC,,,de,1.0
+deutschen,deutschen,MISC,,,de,1.0
+Prognose“,Prognose“,MISC,,,de,1.0
 Die erste Novemberwoche,Die erste Novemberwoche,MISC,,,de,1.0
 Sonntagnachmittag,Sonntagnachmittag,MISC,-0.7,0.0,de,1.0
 Wolf,Wolf,MISC,,,de,1.0
@@ -230,8 +232,8 @@ Handy-Ortungen ze…,Handy-Ortungen ze…,MISC,,,de,1.0
 DWD-Prognose,DWD-Prognose,MISC,,,de,1.0
 Die Wolken,Die Wolken,MISC,,,de,1.0
 Größter Vollmond des Jahres,Größter Vollmond des Jahres,MISC,,,de,1.0
-Prognose“,Prognose“,MISC,,,de,1.0
 Deutschem…,Deutschem…,MISC,,,de,1.0
+Wer am Sonntag,Wer am Sonntag,MISC,,,de,1.0
 Donau-Nebel,Donau-Nebel,MISC,-0.7,0.0,de,1.0
 A…,A…,MISC,,,de,1.0
 Deu…,Deu…,MISC,,,de,1.0
@@ -241,4 +243,5 @@ Gratis-Beilage,Gratis-Beilage,MISC,,,de,1.0
 Core Ultra,Core Ultra,MISC,,,de,1.0
 PC brau…,PC brau…,MISC,,,de,1.0
 Das Wetter im Freistaat,Das Wetter im Freistaat,MISC,,,de,1.0
-Berliner,Berliner,MISC,,,de,1.0
+Herbstwett…,Herbstwett…,MISC,,,de,1.0
+niem…,niem…,MISC,,,de,1.0
