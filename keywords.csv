@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel Verletzte',de,Impacts,#FBC02D,#e69900,1,0.1314408500227685
-'Nebel Wetter',de,Hazard,#A03232,#ff4d4d,3,0.0809177235307962
-'Nebel Vorhersage',de,Mitigation,#689F38,#33cc00,1,0.02820153517372444
+'Nebel Wetter',de,Hazard,#A03232,#ff4d4d,3,0.0773681536375404
+'Nebel Vorhersage',de,Mitigation,#689F38,#33cc00,1,0.0282015351737244
 'Nebel Schaden',de,Impacts,#FBC02D,#ffaa00,1,0.0239738574567372
 'Nebel schlechte Sicht',de,Hazard,#A03232,#ff4d4d,1,0.0234452608294442
 'Nebel Auffahrunfall',de,Impacts,#FBC02D,#ffaa00,1,0.021636469413648
