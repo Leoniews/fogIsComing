@@ -1,6 +1,6 @@
 ,phrase,label,sentiment,subjectivity,language,count
 DWD,DWD,ORG,-0.2939814814814819,0.04166666666666674,de,71.99999999999987
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.30920687742651165,0.08874098724348321,de,60.099999999999916
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.30920687742651165,0.0887409872434832,de,60.099999999999916
 Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.14067278287461768,0.015290519877675835,de,21.800000000000008
 lby,lby,ORG,0.09880952380952378,0.1309523809523809,de,14.000000000000004
 Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,-0.17661691542288552,0.06218905472636813,de,13.400000000000004
@@ -70,7 +70,7 @@ Deutschen…,Deutschen…,ORG,0.0,0.0,de,1.0
 Deutsche Wetterdien…,Deutsche Wetterdien…,ORG,0.0,0.0,de,1.0
 mexikanischen Marine,mexikanischen Marine,ORG,0.0,0.0,de,1.0
 Sonne durchblitzt,Sonne durchblitzt,ORG,0.0,0.0,de,1.0
-Sonnenschein…,Sonnenschein…,ORG,0.0,0.0,de,1.0
+Bunte Blätter,Bunte Blätter,ORG,0.9,0.0,de,1.0
 ÖAMTC-Verkehrsjurist Do…,ÖAMTC-Verkehrsjurist Do…,ORG,0.0,0.0,de,1.0
 l…,l…,ORG,0.0,0.0,de,1.0
 Geosphere Austria,Geosphere Austria,ORG,0.0,0.0,de,1.0
@@ -90,11 +90,11 @@ Frankfurter Club,Frankfurter Club,ORG,-1.0,0.0,de,1.0
 Zud…,Zud…,ORG,0.0,0.0,de,1.0
 ni…,ni…,ORG,0.0,0.0,de,1.0
 Zeit für ein CPU Upgrade,Zeit für ein CPU Upgrade,ORG,0.7,0.0,de,1.0
-Bunte Blätter,Bunte Blätter,ORG,0.9,0.0,de,1.0
+Sonnenschein…,Sonnenschein…,ORG,0.0,0.0,de,1.0
 "Link
 ","Link
 ",ORG,0.0,0.0,de,1.0
-russische Armee,russische Armee,ORG,0.0,0.0,de,1.0
+Airports,Airports,ORG,0.0,0.0,de,1.0
 Deutsche Wetterdienst für Baden-Württemberg,Deutsche Wetterdienst für Baden-Württemberg,ORG,0.0,0.0,de,1.0
 Krankenhaus +++ Regen,Krankenhaus +++ Regen,ORG,-1.0,0.0,de,1.0
 Löffler-Institut,Löffler-Institut,ORG,0.7,0.0,de,1.0
@@ -116,16 +116,16 @@ Deutsche…,Deutsche…,ORG,0.0,0.0,de,1.0
 Wetter-Vorhersage,Wetter-Vorhersage,ORG,-1.4,0.0,de,1.0
 Deutsche …,Deutsche …,ORG,0.7,0.0,de,1.0
 ty…,ty…,ORG,0.0,0.0,de,1.0
-Der Deutsche Wetterdienst,Der Deutsche Wetterdienst,ORG,0.0,0.0,de,1.0
 Nebel schrä,Nebel schrä,ORG,0.0,0.0,de,1.0
+Der Deutsche Wetterdienst,Der Deutsche Wetterdienst,ORG,0.0,0.0,de,1.0
 Spurensicherungsmaßnahmen…,Spurensicherungsmaßnahmen…,ORG,0.0,0.0,de,1.0
 Hessen,Hessen,ORG,-1.0,0.0,de,1.0
 Hessen +++,Hessen +++,ORG,-1.0,0.0,de,1.0
 e…,e…,ORG,0.0,0.0,de,1.0
-Patriot-Luftabwehr,Patriot-Luftabwehr,ORG,0.0,0.0,de,1.0
-Deutschland,Deutschland,ORG,0.7,0.0,de,1.0
-speziel…,speziel…,ORG,0.7,0.0,de,1.0
-Telegram…,Telegram…,ORG,0.0,0.0,de,1.0
+russische Streitkräfte,russische Streitkräfte,ORG,0.0,0.0,de,1.0
+ukrainische Luftwaffe,ukrainische Luftwaffe,ORG,0.7,0.0,de,1.0
+AFP,AFP,ORG,0.0,0.0,de,1.0
+Russland,Russland,ORG,0.0,0.0,de,1.0
 Die neue Woche,Die neue Woche,ORG,0.0,0.0,de,1.0
 ei…,ei…,ORG,1.0,0.0,de,1.0
 Bra…,Bra…,ORG,0.0,0.0,de,1.0
@@ -139,18 +139,18 @@ NATO,NATO,ORG,0.0,0.0,de,1.0
 Handy-Standortdaten,Handy-Standortdaten,ORG,0.0,0.0,de,1.0
 Spionage-Gefahr,Spionage-Gefahr,ORG,0.0,0.0,de,1.0
 Databroker Files,Databroker Files,ORG,0.0,0.0,de,1.0
-Airports,Airports,ORG,0.0,0.0,de,1.0
-ukrainische Luftwaffe,ukrainische Luftwaffe,ORG,0.7,0.0,de,1.0
-russische Streitkräfte,russische Streitkräfte,ORG,0.0,0.0,de,1.0
-Russland,Russland,ORG,0.0,0.0,de,1.0
-AFP,AFP,ORG,0.0,0.0,de,1.0
-Saporischschja +++,Saporischschja +++,ORG,0.0,0.0,de,1.0
-Grenzfluss +++,Grenzfluss +++,ORG,0.0,0.0,de,1.0
-Odessa +++,Odessa +++,ORG,0.0,0.0,de,1.0
-ukrainischen Streitkräfte,ukrainischen Streitkräfte,ORG,0.0,0.0,de,1.0
-Belgorod +++,Belgorod +++,ORG,0.0,0.0,de,1.0
-Reg…,Reg…,ORG,0.0,0.0,de,1.0
-ukrainische Marine,ukrainische Marine,ORG,0.0,0.0,de,1.0
+russische Armee,russische Armee,ORG,0.0,0.0,de,1.0
+speziel…,speziel…,ORG,0.7,0.0,de,1.0
+Deutschland,Deutschland,ORG,0.7,0.0,de,1.0
+Patriot-Luftabwehr,Patriot-Luftabwehr,ORG,0.0,0.0,de,1.0
+Telegram…,Telegram…,ORG,0.0,0.0,de,1.0
 ABC News,ABC News,ORG,0.0,0.0,de,1.0
 Ukraine-Krieg +++,Ukraine-Krieg +++,ORG,0.0,0.0,de,1.0
+ukrainische Marine,ukrainische Marine,ORG,0.0,0.0,de,1.0
+Reg…,Reg…,ORG,0.0,0.0,de,1.0
+ukrainischen Streitkräfte,ukrainischen Streitkräfte,ORG,0.0,0.0,de,1.0
+Belgorod +++,Belgorod +++,ORG,0.0,0.0,de,1.0
+Odessa +++,Odessa +++,ORG,0.0,0.0,de,1.0
+Grenzfluss +++,Grenzfluss +++,ORG,0.0,0.0,de,1.0
+Saporischschja +++,Saporischschja +++,ORG,0.0,0.0,de,1.0
 Brigade Chartija,Brigade Chartija,ORG,0.0,0.0,de,1.0
