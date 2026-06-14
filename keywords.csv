@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel Tote',de,Impacts,#FBC02D,#b37700,1,0.0157398633909715
 'Nebel Auffahrunfall',de,Impacts,#FBC02D,#ffaa00,1,0.0156323491513606
 'Nebel Schaden',de,Impacts,#FBC02D,#ffaa00,1,0.0151486523221726
-'Nebel Klimawandel',de,Causes,#1E88E5,#4FC3F7,1,0.0117743972292943
+'Nebel Klimawandel',de,Causes,#1E88E5,#4FC3F7,1,0.010458282644900153
 'Nebel Witterung',de,Hazard,#A03232,#ffb3b3,1,0.0090012552431624
 'Nebel Verkehrsunfall',de,Impacts,#FBC02D,#ffaa00,1,0.0066198263139423
 'Nebel Kondensation',de,Causes,#1E88E5,#80DEEA,1,0.0065328036336592
