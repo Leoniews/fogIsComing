@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel Klimawandel',de,Causes,#1E88E5,#4FC3F7,1,0.0084212826825748
 'Nebel schlechte Sicht',de,Hazard,#A03232,#ff4d4d,1,0.0083272625431276
 'Nebel Auffahrunfall',de,Impacts,#FBC02D,#ffaa00,1,0.0081601839591924
-'Nebel Witterung',de,Hazard,#A03232,#ffb3b3,1,0.007801081956688039
+'Nebel Witterung',de,Hazard,#A03232,#ffb3b3,1,0.007801081956688
 'Nebel Verletzte',de,Impacts,#FBC02D,#e69900,1,0.0077572334161308
-'Nebel Verkehrsunfall',de,Impacts,#FBC02D,#ffaa00,1,0.0056268523668509
+'Nebel Verkehrsunfall',de,Impacts,#FBC02D,#ffaa00,1,0.004932839511823265
 'Nebel Sichtweite',de,Hazard,#A03232,#ff8080,1,0.0046623318606769
 'Nebel Nebelschlussleuchte',de,Adaptation,#689F38,#269900,1,0.0015880944792734
 'Nebel Kondensation',de,Causes,#1E88E5,#80DEEA,1,0.0007898518476954
