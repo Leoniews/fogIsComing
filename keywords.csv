@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel Wetter',de,Hazard,#A03232,#ff4d4d,2,0.0286382232569247
 'Nebel Klimawandel',de,Causes,#1E88E5,#4FC3F7,1,0.0113660716345706
-'Nebel Schaden',de,Impacts,#FBC02D,#ffaa00,1,0.0098672568868072
+'Nebel Schaden',de,Impacts,#FBC02D,#ffaa00,1,0.00913724335378612
 'Nebel Tote',de,Impacts,#FBC02D,#b37700,1,0.0076185200891606
 'Nebel schlechte Sicht',de,Hazard,#A03232,#ff4d4d,1,0.0075541009374096
 'Nebel Vorhersage',de,Mitigation,#689F38,#33cc00,1,0.007439911743892
