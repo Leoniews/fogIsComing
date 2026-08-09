@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel Wetter',de,Hazard,#A03232,#ff4d4d,2,0.0202838121855392
-'Nebel Klimawandel',de,Causes,#1E88E5,#4FC3F7,1,0.00711348745124221
+'Nebel Klimawandel',de,Causes,#1E88E5,#4FC3F7,1,0.0071134874512422
 'Nebel Schaden',de,Impacts,#FBC02D,#ffaa00,1,0.0068185518145079
 'Nebel Witterung',de,Hazard,#A03232,#ffb3b3,1,0.0067809346631848
 'Nebel Vorhersage',de,Mitigation,#689F38,#33cc00,1,0.0067739699823081
@@ -12,5 +12,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel Verkehrsunfall',de,Impacts,#FBC02D,#ffaa00,1,0.0043429285850497
 'Nebel Nebelschlussleuchte',de,Adaptation,#689F38,#269900,1,0.0013498803073823
 'Nebeltage',de,Hazard,#A03232,#ff4d4d,1,0.0008301303770217
+'Nebel Wasserdampf',de,Causes,#1E88E5,#004d80,1,0.00028027353690407
 'Nebel Kondensation',de,Causes,#1E88E5,#80DEEA,1,0.0002152271446813
-'Nebel Wasserdampf',de,Causes,#1E88E5,#004d80,1,0.0001532453375342
