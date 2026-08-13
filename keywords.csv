@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel Verletzte',de,Impacts,#FBC02D,#e69900,1,0.0065871993931544
 'Nebel schlechte Sicht',de,Hazard,#A03232,#ff4d4d,1,0.0055514111987085
 'Nebel Auffahrunfall',de,Impacts,#FBC02D,#ffaa00,1,0.0050113729739389
-'Nebel Tote',de,Impacts,#FBC02D,#b37700,1,0.0049787536497557
+'Nebel Tote',de,Impacts,#FBC02D,#b37700,1,0.004681985602292344
 'Nebel Sichtweite',de,Hazard,#A03232,#ff8080,1,0.0044130270815753
 'Nebel Verkehrsunfall',de,Impacts,#FBC02D,#ffaa00,1,0.0036928214026983
 'Nebel Nebelschlussleuchte',de,Adaptation,#689F38,#269900,1,0.0013498803073823
