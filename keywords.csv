@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel Sichtweite',de,Hazard,#A03232,#ff8080,1,0.004201118019339
 'Nebel schlechte Sicht',de,Hazard,#A03232,#ff4d4d,1,0.0036451589899067
 'Nebel Auffahrunfall',de,Impacts,#FBC02D,#ffaa00,1,0.002615968013477
-'Nebel Verkehrsunfall',de,Impacts,#FBC02D,#ffaa00,1,0.001917347041459535
+'Nebel Verkehrsunfall',de,Impacts,#FBC02D,#ffaa00,1,0.0019173470414595
 'Nebel Nebelschlussleuchte',de,Adaptation,#689F38,#269900,1,0.0013498803073823
-'Nebel Wasserdampf',de,Causes,#1E88E5,#004d80,1,0.0011135828255724
+'Nebel Wasserdampf',de,Causes,#1E88E5,#004d80,1,0.00124657540173654
 'Nebeltage',de,Hazard,#A03232,#ff4d4d,1,0.0003530104527441
 'Nebel Kondensation',de,Causes,#1E88E5,#80DEEA,1,5.864735765681724e-05
