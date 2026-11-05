@@ -12,5 +12,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nebel Wasserdampf',de,Causes,#1E88E5,#004d80,1,0.0014792904995526
 'Nebel Verkehrsunfall',de,Impacts,#FBC02D,#ffaa00,1,0.0013852832374544
 'Nebel Auffahrunfall',de,Impacts,#FBC02D,#ffaa00,1,0.0013655516528349
-'Nebeltage',de,Hazard,#A03232,#ff4d4d,1,2.2279698133544916e-05
+'Nebeltage',de,Hazard,#A03232,#ff4d4d,1,1.893774341351318e-05
 'Nebel Kondensation',de,Causes,#1E88E5,#80DEEA,1,1.8800999153011544e-05
